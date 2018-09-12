@@ -1,7 +1,9 @@
 # NetPack-kears
 NetPack is a high-level interface for computer vision on keras. 
 ### Support
-- Self-defined preprocessing image
+- Preprocessing function
+    + resize (to build)
+    + hsv (to build)
 - Load label from filename( will add more methods latter )
 - Use different network to complete a image classification task
 - Use pre-train network to fine-tuning(to be done)
