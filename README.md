@@ -1,2 +1,2 @@
-# DeepLearning-Strategy-on-CV
-A high-level Interface for computer vision on tensorflow
+# NetPack-kears
+NetPack is a high-level interface for computer vision on keras. 
