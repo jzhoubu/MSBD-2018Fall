@@ -1,18 +1,33 @@
 # NetPack-kears
 NetPack is a high-level interface for computer vision on keras. 
-### Support
+### Key Module
+- loader(path)
+    + loader.load_image(shape)
+
 - Preprocessing function
-    + resize (to do)
     + hsv (to do)
     + augmentation (to do)
+
+- Pre-train Model
+
+
 - Load label from filename( will add more methods latter )
 - Use different network to complete a image classification task
 - Use pre-train network to fine-tuning(to be done)
 
 
-### Optional visualization
-- Present label distribution
+### Optional Visualization
+- Validation Visualization
+    - Present label distribution
+    - Valid error data presentation 
+![Alt text](https://github.com/sysu-zjw/NetPack-keras/image/validset_error.png)
+
+
+
+
 - Output layers outcome(to be done)
+
+
 - Update tensorboard in real time (to be done)
 
 
