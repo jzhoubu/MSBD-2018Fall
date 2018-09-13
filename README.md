@@ -19,9 +19,10 @@ NetPack is a high-level interface for computer vision on keras.
 ### Optional Visualization
 - Validation Visualization
     - Present label distribution
-    - ![Valid error data presentation ](https://github.com/sysu-zjw/NetPack-keras/raw/master/image/validset_error.png)
-
-
+    - Validation View
+    ![ ](https://github.com/sysu-zjw/NetPack-keras/raw/master/image/validset_view.png)
+    - Layer View (After train)
+    ![ ](https://github.com/sysu-zjw/NetPack-keras/raw/master/image/layer_view.png)
 
 
 - Output layers outcome(to be done)
