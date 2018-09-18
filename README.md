@@ -3,5 +3,7 @@
 
 Any better solutions are  welcomed to be contributed.
 
-# 5002-Knowledge Discovery and Data Mining
+# Big Data Technology
+
+### 5002-Knowledge Discovery and Data Mining
 - Assignment 1-- Hash Tree & FP-Tree
