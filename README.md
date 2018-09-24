@@ -1,9 +1,8 @@
->Hi, this is Garvey who's taking courses in Big Data Technology in HKUST.  \
->Since I am a now comer to big data even programming, I will take it seriously and record all my homework here **after the deadline**. 
-
-Any better solutions are  welcomed to be contributed.
+>Hi, this is Garvey with major in big data technology(BDT) in HKUST.  This repo is used to record my programimng homework.
+> Feel free to send a pull request on the repo to help each other improve the programming skill.
 
 # Big Data Technology
 
 ### 5002-Knowledge Discovery and Data Mining
-- Assignment 1-- Hash Tree & FP-Tree
+- Assignment 1-- Hash Tree & Frequent Pattern Tree
+
