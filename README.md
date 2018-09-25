@@ -1,4 +1,4 @@
->Hi, this is Garvey with major in big data technology(BDT) in HKUST.  This repo is used to record my programimng homework.
+>Hi, this is Garvey with major in big data technology(BDT) in HKUST.  This repo is used to record my programimng homework.\
 > Feel free to send a pull request on the repo to help each other improve the programming skill.
 
 # Big Data Technology
