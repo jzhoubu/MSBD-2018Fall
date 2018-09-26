@@ -2,15 +2,15 @@
 > Feel free to send a pull request on the repo to help each other improve the programming skill.
 
 # Summary
-The goal of this repo is:\
+The **goal** of this repo is:
 - to create a community to help each other improve programming skill
 - to record, organize, and improve the existing state-of-art algorithm learnt from lessons
 
-# News
+**News**
 - 09.18: Assignment 1 of 5002 is released with deadline 09.28
-    - 09.28: Solution released
+    - 09.28: Solution of 5002 A1 released
 
-# Course
+# Course Summary
 ### 5002-Knowledge Discovery and Data Mining
 - A1. Hash Tree & FP Tree
 
