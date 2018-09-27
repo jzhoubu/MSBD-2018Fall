@@ -12,7 +12,7 @@ The **goal** of this repo is:
     - **Update(09/28/2018)**: My solution released
 - **Update(09/26/2018)**: 5001 Group Assignment released
 
-# Course Summary
+# Courses Homework
 ### 5002. Knowledge Discovery and Data Mining
 - A1. [HashTree](https://github.com/sysu-zjw/Big-Data-Technology-Homework/blob/master/5002/A1/Q1/HashTree.ipynb) & [FPTree](https://github.com/sysu-zjw/Big-Data-Technology-Homework/blob/master/5002/A1/Q2/FPTree.ipynb)
 
@@ -20,5 +20,5 @@ The **goal** of this repo is:
 # Contributor
 GarveyZhou
 
-Expected more contributor
+**Expect more contributors.**
 
