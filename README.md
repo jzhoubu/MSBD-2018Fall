@@ -8,9 +8,9 @@ The **goal** of this repo is:
 - to record, organize, and improve the existing state-of-art algorithm learnt from lessons
 
 **News**
-- 2018/09/18: 5002 Assignment 1 is released with deadline 09.28
-    - 2018/09/28: My solution released
-- 2018/09/26: 5001 Group Assignment released
+- **Update(09/18/2018)**: 5002 Assignment 1 is released with deadline 09.28
+    - **Update(09/28/2018)**: My solution released
+- **Update(09/26/2018)**: 5001 Group Assignment released
 
 # Course Summary
 ### 5002. Knowledge Discovery and Data Mining
@@ -18,3 +18,7 @@ The **goal** of this repo is:
 
 
 # Contributor
+GarveyZhou
+
+Expected more contributor
+
