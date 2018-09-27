@@ -3,12 +3,13 @@
 
 # Summary
 The **goal** of this repo is:
-- to create a community to help each other improve programming skill
+- to create a community for programming issue
+- to improve our programming skill by learning from each other and  in-time practicing
 - to record, organize, and improve the existing state-of-art algorithm learnt from lessons
 
 **News**
 - 09.18: 5002 Assignment 1 is released with deadline 09.28
-    - 09.28: Solution released
+    - 09.28: My solution released
 - 09.26: 5001 Group Assignment released
 
 # Course Summary
