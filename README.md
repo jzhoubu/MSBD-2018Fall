@@ -8,7 +8,7 @@ The **goal** of this repo is:
 - to record, organize, and improve the existing state-of-art algorithm learnt from lessons
 
 **News**
-- **Update(09/18/2018)**: 5002 (Assignment 1)[https://github.com/sysu-zjw/Big-Data-Technology-Homework/blob/master/5002/A1/MSBD5002_Assignment_1.pdf] is released with deadline 09.28
+- **Update(09/18/2018)**: 5002 Assignment 1((A1))[https://github.com/sysu-zjw/Big-Data-Technology-Homework/blob/master/5002/A1/MSBD5002_Assignment_1.pdf]) is released with deadline 09.28
     - **Update(09/28/2018)**: My solution released
 - **Update(09/26/2018)**: 5001 Group Assignment released
 
