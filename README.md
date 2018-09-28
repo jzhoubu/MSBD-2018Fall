@@ -11,14 +11,19 @@ The **goal** of this repo is:
 - **Update(09/18/2018)**: 5002 [Assignment 1](https://github.com/sysu-zjw/Big-Data-Technology-Homework/blob/master/5002/A1/MSBD5002_Assignment_1.pdf) is released with deadline 09.28
     - **Update(09/28/2018)**: My solution released
 - **Update(09/26/2018)**: 5001 Group Assignment released
+- **Update(09/26/2018)**: 5003 Assignment 1 released with deadline 10.12
 
-# Courses Homework
+
+# Homework List
+### 5001. Foundations of Data Analytics
+
 ### 5002. Knowledge Discovery and Data Mining
 - A1. [HashTree](https://github.com/sysu-zjw/Big-Data-Technology-Homework/blob/master/5002/A1/Q1/HashTree.ipynb) & [FPTree](https://github.com/sysu-zjw/Big-Data-Technology-Homework/blob/master/5002/A1/Q2/FPTree.ipynb)
 
+### 5003. Big Data Computing
 
 # Contributor
-GarveyZhou
+Jiawei Zhou
 
 **Expect more contributors.**
 
