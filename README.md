@@ -18,7 +18,7 @@ The **goal** of this repo is:
 ### 5001. Foundations of Data Analytics
 
 ### 5002. Knowledge Discovery and Data Mining
-- A1. [HashTree](https://github.com/sysu-zjw/Big-Data-Technology-Homework/blob/master/5002/A1/Q1/HashTree.ipynb) & [FPTree](https://github.com/sysu-zjw/Big-Data-Technology-Homework/blob/master/5002/A1/Q2/FPTree.ipynb)
+- A1. [HashTree](https://github.com/sysu-zjw/Big-Data-Technology-Homework/tree/master/5002/A1/Q1) & [FPTree](https://github.com/sysu-zjw/Big-Data-Technology-Homework/tree/master/5002/A1/Q2)
 
 ### 5003. Big Data Computing
 
