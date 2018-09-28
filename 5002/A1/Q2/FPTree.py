@@ -42,7 +42,7 @@ def saver(fpt,path):
         print("result.csv already exist in "+ path)
 
 def dfs(root):
-    """ depth search first to return nested list of tree as required
+    """ depth first search to return nested list of tree as required
     """
     res=root.name+" "+str(root.cnt)
     return [res,[dfs(v) for k,v in root.children.items()]] if root.children else res
