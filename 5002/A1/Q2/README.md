@@ -1,5 +1,5 @@
 # FP-tree ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
-This is a FP tree toy demo.
+This is a FP tree toy demo within 100 lines. 
 
 ## Usage
 
