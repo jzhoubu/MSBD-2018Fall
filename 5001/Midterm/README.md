@@ -2,8 +2,9 @@
 Short-answer Questions and Computation Questions(Calculator is required).
 
 ## Top Question Prediction
+- Basic concept compting (eg. Expectation,Variance) and interpretation (eg. how to complete the 3 steps in machine learning)
 - Given formula and data, compute Least Squre Fit / kNN process / Gradient Descent / Entropy to construct decision tree
-- Given situation, compare different methods among machine learning, or ensemble learning
+- Given situation, compare different methods among machine learning / ensemble learning / Supervised vs unsupervised learning
 
 
 ## Lecture1

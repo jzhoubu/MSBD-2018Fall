@@ -12,7 +12,7 @@ The **Goal** of this repo is:
     - **Update(09/28/2018)**: Solution of zjw released
 - **Update(09/26/2018)**: 5001 Group Assignment released
 - **Update(09/28/2018)**: 5003 Assignment 1 released with deadline 10.12
-- **Update(10/08/2018)**: 5001 Midterm Review Summary released
+- **Update(10/08/2018)**: 5001 Midterm [Review Summary](https://github.com/sysu-zjw/BDT-Homework/tree/master/5001/Midterm) released
 - **Update(10/09/2018)**: 5002 Project released with deadline 11.30
 
 
