@@ -7,13 +7,22 @@ The **Goal** of this repo is:
 - to improve programming skill by learning from other's code and  in-time review
 - to record, organize, and improve the existing state-of-art algorithm learnt from lessons
 
-**News**
-- **Update(09/18/2018)**: 5002 [Assignment 1](https://github.com/sysu-zjw/Big-Data-Technology-Homework/blob/master/5002/A1/MSBD5002_Assignment_1.pdf) is released with deadline 09.28
-    - **Update(09/28/2018)**: Solution of zjw released
-- **Update(09/26/2018)**: 5001 Group Assignment released
-- **Update(09/28/2018)**: 5003 Assignment 1 released with deadline 10.12
-- **Update(10/08/2018)**: 5001 Midterm [Review Summary](https://github.com/sysu-zjw/BDT-Homework/tree/master/5001/Midterm) released
-- **Update(10/09/2018)**: 5002 Project released with deadline 11.30
+**Deadline**
+- Deadline(09/28/2018): 5002 [Assignment 1](https://github.com/sysu-zjw/Big-Data-Technology-Homework/blob/master/5002/A1/MSBD5002_Assignment_1.pdf) 
+- Deadline(10/10/2018): 5001 Midterm
+- Deadline(10/12/2018): 5003 Assignment 1
+- **Deadline(10/23/2018)**: 5002 Midterm
+- **Deadline(10/24/2018)**: 5005 Presentation
+- **Deadline(10/25/2018)**: 5002 Assignment 2
+- **Deadline(10/26/2018)**: 5003 Assignment 2
+- **Deadline(10/29/2018)**: 5003 Group Project Proposal
+- **Deadline(11/01/2018)**: 5005 Group Project Proposal
+- **Deadline(11/30/2018)**: 5002 Project
+
+
+
+
+
 
 
 # Homework List
