@@ -27,14 +27,26 @@ The **Goal** of this repo is:
 
 # Homework List
 ### 5001. Foundations of Data Analytics
-- Group Assignment
+- Group Project
+- Individual Project
 - Midterm
 
 ### 5002. Knowledge Discovery and Data Mining
 - A1. [HashTree](https://github.com/sysu-zjw/Big-Data-Technology-Homework/tree/master/5002/A1/Q1) & [FPTree](https://github.com/sysu-zjw/Big-Data-Technology-Homework/tree/master/5002/A1/Q2)
+- A2. Ensemble Learning
+- A3
+- Project
+
 
 ### 5003. Big Data Computing
-- Assignment 1 
+- A1 
+- A2
+
+### 5005. Data Visualization
+- In Class Exercise
+- Individual Presentation
+- Group Project
+
 
 # Contributor
 Jiawei Zhou
