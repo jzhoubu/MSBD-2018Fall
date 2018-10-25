@@ -32,7 +32,7 @@ The **Goal** of this repo is:
 # Homework List
 ### 5001. Foundations of Data Analytics
 - Group Project
-- Individual Project
+- Individual Project [[Link](https://www.kaggle.com/t/d3175611b9594c4bb94a974e8ad664a5)]
 - Midterm
 
 ### 5002. Knowledge Discovery and Data Mining
@@ -48,7 +48,7 @@ The **Goal** of this repo is:
 
 ### 5005. Data Visualization
 - In Class Exercise
-- Individual Presentation
+- Individual Presentation [[Link](https://sysu-zjw.github.io/5005TopVIS/)]
 - Group Project
 
 
