@@ -17,7 +17,7 @@ function Draw1(){
 
 
 	changeBottomText(newText = "Folk from Nadieh Bremer",
-	loc = 1/2, delayDisappear = 3, delayAppear = 6, finalText = true);
+	loc = 1/2, delayDisappear = 3, delayAppear = 4, finalText = true);
 
 
 	changeTopText(newText = "Let's see how to do this",
