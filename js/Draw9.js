@@ -6,13 +6,13 @@ function Draw9(){
 	/*First disable click event on clicker button*/
 	stopClicker();
 	/*Show and run the progressBar*/
-	runProgressBar(time=700*10);	
+	runProgressBar(time=700*8);	
 	
 	/*Samsung Loyal text*/
-	changeTopText(newText = "There are also customers that stay loyal and did not switch brands between their previous and current phone",
+	changeTopText(newText = "There are also customers that stay loyal and did not switch brands",
 		loc = 4/2, delayDisappear = 0, delayAppear = 1, finalText = false, xloc=-50, w=300);
 	changeTopText(newText = "These loyal customers are represented by the hills at each brand",
-		loc = 3/2, delayDisappear = 8, delayAppear = 9, finalText = true, xloc=-50, w=300);
+		loc = 3/2, delayDisappear = 6, delayAppear = 8, finalText = true, xloc=-50, w=300);
 
 		
 	/*Remove the arcs*/
