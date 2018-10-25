@@ -6,13 +6,13 @@ function Draw7(){
 	/*First disable click event on clicker button*/
 	stopClicker();
 	/*Show and run the progressBar*/
-	runProgressBar(time=700*11);	
+	runProgressBar(time=700*9);	
 	
 	/*Samsung and Nokia text*/
 	changeTopText(newText = "At the Nokia side, the arc is much thinner, only spanning 1.2%",
 		loc = 4, delayDisappear = 0, delayAppear = 1);
-	changeTopText(newText = "These 1.2% now own a Nokia, and by following the chord we can see that they had a Samsung before",
-		loc = 4, delayDisappear = 9, delayAppear = 10, finalText = true);
+	changeTopText(newText = "These 1.2% people switch from Samsung to Nokia",
+		loc = 4, delayDisappear = 6, delayAppear = 7, finalText = true);
 		
 	/*Stop the color changing on the Samsung side*/
 	d3.selectAll(".SamsungToNokiaArc")

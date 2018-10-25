@@ -42,7 +42,7 @@ function Draw3(){
 	changeTopText(newText = "",
 		loc = 8/2, delayDisappear = 0, delayAppear = 2, finalText = true);
 
-	changeBottomText(newText = "We encode the market share, which indeed is an attribute of instances, into the arc",
+	changeBottomText(newText = "We can encode the market share into the arc",
 		loc = -3/2, delayDisappear = (arcDelay[3]-1), delayAppear = arcDelay[3]);	
 
 };/*Draw3*/

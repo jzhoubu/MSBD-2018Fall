@@ -6,7 +6,7 @@ function Draw5(){
 	/*First disable click event on clicker button*/
 	stopClicker();
 	/*Show and run the progressBar*/
-	runProgressBar(time=700*11);	
+	runProgressBar(time=700*9);	
 	
 	/*Samsung and Nokia text*/
 	changeTopText(newText = "On the left, touching the arc of Samsung, we can see that the chord runs from 17% to almost 26%. Which is a thickness spanning 9%",
