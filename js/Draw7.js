@@ -12,7 +12,7 @@ function Draw7(){
 	changeTopText(newText = "At the Nokia side, the arc is much thinner, only spanning 1.2%",
 		loc = 4, delayDisappear = 0, delayAppear = 1);
 	changeTopText(newText = "These 1.2% people switch from Samsung to Nokia",
-		loc = 4, delayDisappear = 6, delayAppear = 7, finalText = true);
+		loc = 4, delayDisappear = 4, delayAppear = 5, finalText = true);
 		
 	/*Stop the color changing on the Samsung side*/
 	d3.selectAll(".SamsungToNokiaArc")

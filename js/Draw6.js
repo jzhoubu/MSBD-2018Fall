@@ -9,7 +9,7 @@ function Draw6(){
 	runProgressBar(time=700*8);	
 	
 	/*Samsung and Nokia text*/
-	changeTopText(newText = "These 9% of the people now own a Samsung and by following the chord we can see what brand they used to own, which in this case, is Nokia",
+	changeTopText(newText = "These 9% of the people now own a Samsung and by following the chord we can see the brand they used to own is Nokia",
 		loc = 5, delayDisappear = 0, delayAppear = 1, finalText = true);
 
 	/*Show only the Samsung Nokia part at Nokia*/
