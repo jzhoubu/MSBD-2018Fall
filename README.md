@@ -11,13 +11,17 @@ The **Goal** of this repo is:
 - Deadline(09/28/2018): 5002 Assignment 1 [[ALIVE](https://github.com/sysu-zjw/Big-Data-Technology-Homework/blob/master/5002/A1/MSBD5002_Assignment_1.pdf)]
 - Deadline(10/10/2018): 5001 Midterm [ALIVE]
 - Deadline(10/12/2018): 5003 Assignment 1 [ALIVE]
-- **Deadline(10/23/2018)**: 5002 Midterm [R&P]
-- **Deadline(10/24/2018)**: 5005 Presentation [30%]
+- **Deadline(10/23/2018)**: 5002 Midterm [ALIVE]
+- **Deadline(10/24/2018)**: 5005 Presentation [[ALIVE](https://sysu-zjw.github.io/5005TopVIS/)]
 - **Deadline(10/25/2018)**: 5002 Assignment 2 [80%]
+- **Deadline(10/26/2018)**: 5001 Group Project Proposal [20%]
 - **Deadline(10/26/2018)**: 5003 Assignment 2 [0%]
 - **Deadline(10/29/2018)**: 5003 Group Project Proposal [0%]
 - **Deadline(11/01/2018)**: 5005 Group Project Proposal [0%]
 - **Deadline(11/30/2018)**: 5002 Project [0%]
+- **Deadline(12/10/2018)**: 5003 Final [0%]
+- **Deadline(12/11/2018)**: 5002 Final [0%]
+- **Deadline(12/13/2018)**: 5005 Final [0%]
 
 
 
