@@ -55,6 +55,88 @@ The **Goal** of this repo is:
 
 - Group Project
 
+### 5014. Independent Project
+#### Human-eye on Deep Learning [[Link](https://github.com/sysu-zjw/XAI-Project)]
+<table border=0 >
+    <tbody>
+        <tr>
+            <td width="20%" > <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/ClassActivationMaps/bike_0.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/ClassActivationMaps/bike_1.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/ClassActivationMaps/bike_2.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/ClassActivationMaps/bike_3.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/ClassActivationMaps/bike_4.jpg"> </td>
+        </tr>
+        <tr>
+            <td width="20%" > <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/ClassActivationMaps/HKUST_0.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/ClassActivationMaps/HKUST_1.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/ClassActivationMaps/HKUST_2.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/ClassActivationMaps/HKUST_3.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/ClassActivationMaps/HKUST_4.jpg"> </td>
+        </tr>
+        <tr>
+            <td width="20%" > <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/SaliencyMaps/bear_0.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/SaliencyMaps/bear_1.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/SaliencyMaps/bear_2.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/SaliencyMaps/bear_3.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/SaliencyMaps/bear_4.jpg"> </td>
+        </tr>
+        <tr>
+            <td width="20%" > <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/SaliencyMaps/mastiff_0.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/SaliencyMaps/mastiff_1.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/SaliencyMaps/mastiff_2.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/SaliencyMaps/mastiff_3.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/SaliencyMaps/mastiff_4.jpg"> </td>
+        </tr>
+    </tbody>
+</table>
+<table border=0 >
+    <tbody>
+        <tr>
+            <td width="20%" > <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/GuidedBackPropagation/Snake_origin.jpg"> </td>
+            <td width="20%" align="center" valign="center">  Guided BackPropagation
+            <td width="20%" align="center" valign="center">  Guided BackPropagation with <b>gray scale</b>
+            <td width="20%" align="center" valign="center">  Guided BackPropagation with <b>positive gradient</b>
+            <td width="20%" align="center" valign="center">  Guided BackPropagation with <b>negitive gradient</b>
+        </tr>
+        <tr>
+            <td width="20%" align="center" valign="center"> <b>DenseNet 161</b>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/GuidedBackPropagation/DenseNet161_Snake_norm.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/GuidedBackPropagation/DenseNet161_Snake_gray.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/GuidedBackPropagation/DenseNet161_Snake_pos.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/GuidedBackPropagation/DenseNet161_Snake_neg.jpg"> </td>
+        </tr>
+        <tr>
+            <td width="20%" align="center" valign="center"> <b>ResNet 152</b>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/GuidedBackPropagation/ResNet152_Snake_norm.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/GuidedBackPropagation/ResNet152_Snake_gray.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/GuidedBackPropagation/ResNet152_Snake_pos.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/GuidedBackPropagation/ResNet152_Snake_neg.jpg"> </td>
+        </tr>
+        <tr>
+            <td width="20%" align="center" valign="center"> <b>VGG16_bn</b>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/GuidedBackPropagation/VGG16_bn_Snake_norm.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/GuidedBackPropagation/VGG16_bn_Snake_gray.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/GuidedBackPropagation/VGG16_bn_Snake_pos.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/GuidedBackPropagation/VGG16_bn_Snake_neg.jpg"> </td>
+        </tr>
+        <tr>
+            <td width="20%" align="center" valign="center"> <b>VGG16</b>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/GuidedBackPropagation/VGG16_Snake_norm.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/GuidedBackPropagation/VGG16_Snake_gray.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/GuidedBackPropagation/VGG16_Snake_pos.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/GuidedBackPropagation/VGG16_Snake_neg.jpg"> </td>
+        </tr>
+        <tr>
+            <td width="20%" align="center" valign="center"> <b>AlexNet</b>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/GuidedBackPropagation/alexnet_Snake_norm.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/GuidedBackPropagation/alexnet_Snake_gray.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/GuidedBackPropagation/alexnet_Snake_pos.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/GuidedBackPropagation/alexnet_Snake_neg.jpg"> </td>
+        </tr>
+    </tbody>
+</table>
+
+
 
 # Contributor
 Jiawei Zhou
