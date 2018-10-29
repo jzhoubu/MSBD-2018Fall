@@ -3,9 +3,9 @@
 
 # Summary
 The **Goal** of this repo is:
-- to create a community for programming issue [Reomove]
+- to create a community for programming issue [Remove]
 - to improve programming skill by learning from other's code and  in-time review
-- to record, organize, and improve the existing state-of-art algorithm learnt from lessons [Reomove]
+- to record, organize, and improve the existing state-of-art algorithm learnt from lessons [Remove]
 - to store and present what I have done in 2018Fall MSBD program [New]
 
 # Deadline
@@ -50,6 +50,8 @@ The **Goal** of this repo is:
 ### 5005. Data Visualization
 - In Class Exercise
 - Individual Presentation [[Link](https://sysu-zjw.github.io/5005TopVIS/)]
+<iframe class="blog__specific_iframe blog__article_width" src="https://sysu-zjw.github.io/5005TopVIS/" name="Demo" frameborder="0" marginwidth="0px" marginheight="0px" scrolling="no" align="middle"></iframe>
+
 - Group Project
 
 
