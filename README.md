@@ -50,8 +50,7 @@ The **Goal** of this repo is:
 ### 5005. Data Visualization
 - In Class Exercise
 - Individual Presentation [[Link](https://sysu-zjw.github.io/5005TopVIS/)]
-![](https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5005Pre.png)
-
+<img src="https://github.com/favicon.ico" width="24" height="24">
 - Group Project
 
 
