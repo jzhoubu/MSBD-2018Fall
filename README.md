@@ -37,7 +37,7 @@ The **Goal** of this repo is:
 - Midterm
 
 ### 5002. Knowledge Discovery and Data Mining
-- A1. [HashTree](https://github.com/sysu-zjw/Big-Data-Technology-Homework/tree/master/5002/A1/Q1) & [FPTree](https://github.com/sysu-zjw/Big-Data-Technology-Homework/tree/master/5002/A1/Q2)
+- A1. [HashTree](https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A1/Q1) & [FPTree](https://github.com/sysu-zjw/Big-Data-Technology-Homework/tree/master/5002/A1/Q2)
 - A2. Ensemble Learning
 - A3
 - Project
@@ -50,7 +50,7 @@ The **Goal** of this repo is:
 ### 5005. Data Visualization
 - In Class Exercise
 - Individual Presentation [[Link](https://sysu-zjw.github.io/5005TopVIS/)]
-<iframe class="blog__specific_iframe blog__article_width" src="https://sysu-zjw.github.io/5005TopVIS/" name="Demo" frameborder="0" marginwidth="0px" marginheight="0px" scrolling="no" align="middle"></iframe>
+![](https://github.com/sysu-zjw/MSBD-2018Fall/pic/5005Pre.png)
 
 - Group Project
 
