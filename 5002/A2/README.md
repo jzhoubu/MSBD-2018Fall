@@ -1,7 +1,5 @@
-# 5002A2
+# Ensemble Learning
 Applying Ensemble Learning (Stacking) to Data Mining. 
-
-
 
 ## Usage
 - Run `main.py`
@@ -63,8 +61,8 @@ Applying Ensemble Learning (Stacking) to Data Mining.
 <table border=0 >
     <tbody>
         <tr>
-            <td width="40%" > <img src="https://github.com/sysu-zjw/BDT-Homework/blob/master/5002/A2/picture/cate1.png"> </td>
-            <td width="40%"> <img src="https://github.com/sysu-zjw/BDT-Homework/blob/master/5002/A2/picture/cate2.png"> </td>
+            <td width="40%" > <img src="https://github.com/sysu-zjw/BDT-Homework/blob/master/img/5002A2_cate1.png"> </td>
+            <td width="40%"> <img src="https://github.com/sysu-zjw/BDT-Homework/blob/master/img/5002A2_cate2.png"> </td>
         </tr>
     </tbody>
 </table>
@@ -73,10 +71,10 @@ Applying Ensemble Learning (Stacking) to Data Mining.
 <table border=0 >
     <tbody>
         <tr>
-            <td width="20%" > <img src="https://github.com/sysu-zjw/BDT-Homework/blob/master/5002/A2/picture/num1.png"> </td>
-            <td width="20%"> <img src="https://github.com/sysu-zjw/BDT-Homework/blob/master/5002/A2/picture/num2.png"> </td>
-            <td width="20%"> <img src="https://github.com/sysu-zjw/BDT-Homework/blob/master/5002/A2/picture/num3.png"> </td>
-            <td width="20%"> <img src="https://github.com/sysu-zjw/BDT-Homework/blob/master/5002/A2/picture/num4.png""> </td>
+            <td width="20%" > <img src="https://github.com/sysu-zjw/BDT-Homework/blob/master/img/5002A2_num1.png"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/BDT-Homework/blob/master/img/5002A2_num2.png"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/BDT-Homework/blob/master/img/5002A2_num3.png"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/BDT-Homework/blob/master/img/5002A2_num4.png""> </td>
         </tr>
     </tbody>
 </table>
