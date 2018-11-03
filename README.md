@@ -9,7 +9,7 @@ The **Goal** of this repo is:
 - to store and present what I have done in 2018Fall MSBD program [New]
 
 # Deadline
-- Deadline(09/28/2018): 5002 Assignment 1 [[Solution](https://github.com/sysu-zjw/Big-Data-Technology-Homework/blob/master/5002/A1/MSBD5002_Assignment_1.pdf)]
+- Deadline(09/28/2018): 5002 Assignment 1 [[Solution](https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A1/Q2)]
 - Deadline(10/10/2018): 5001 Midterm 
 - Deadline(10/12/2018): 5003 Assignment 1 
 - Deadline(10/23/2018): 5002 Midterm 
@@ -17,8 +17,10 @@ The **Goal** of this repo is:
 - Deadline(10/25/2018): 5002 Assignment 2 [Solution]
 - Deadline(10/26/2018): 5001 Group Project Proposal 
 - Deadline(10/26/2018): 5003 Assignment 2 
-- **Deadline(10/29/2018)**: 5003 Group Project Proposal 
-- **Deadline(11/01/2018)**: 5005 Group Project Proposal 
+- Deadline(10/29/2018): 5003 Group Project Proposal 
+- Deadline(11/01/2018): 5005 Group Project Proposal 
+- **Deadline(11/12/2018)**: 5003 Assignment 3
+- **Deadline(11/13/2018)**: 5002 Assignment 3 
 - **Deadline(11/30/2018)**: 5002 Project [Killing me]
 - **Deadline(12/10/2018)**: 5003 Final 
 - **Deadline(12/11/2018)**: 5002 Final 
@@ -37,15 +39,16 @@ The **Goal** of this repo is:
 - Midterm
 
 ### 5002. Knowledge Discovery and Data Mining
-- A1. [HashTree](https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A1/Q1) & [FPTree](https://github.com/sysu-zjw/Big-Data-Technology-Homework/tree/master/5002/A1/Q2)
-- A2. Ensemble Learning
-- A3
-- Project
+- Assignment 1:  [HashTree](https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A1/Q1) & [FPTree](https://github.com/sysu-zjw/Big-Data-Technology-Homework/tree/master/5002/A1/Q2)
+- Assignment 2:  Ensemble Learning
+- Assignment 3:  Unsupervised Learning
+- Project:  Data Mining on Spatio-Temporal Dataset
 
 
 ### 5003. Big Data Computing
-- A1 
-- A2
+- Assignment 1
+- Assignment 2
+- Assignment 3
 
 ### 5005. Data Visualization
 - In Class Exercise
