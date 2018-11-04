@@ -82,14 +82,152 @@ I also do random sampling and try to interpret the meaning of each cluster. Resu
             <th align="center" valign="center" width="15%"> <b>Interpret</b></th>
         </tr>
         <tr>
-            <td align="left" valign="center" width="10%">  <b>Cluster1</b>
+            <td align="left" valign="center" width="10%">  <b> 0 </b>
             <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label0_Image558.jpg"> </td>
             <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label0_Image1579.jpg"> </td>
             <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label0_Image2134.jpg"> </td>
             <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label0_Image2782.jpg"> </td>
             <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label0_Image4603.jpg"> </td>
-            <td align="left" valign="center" width="15%">  <b>Interpret</b>: Dog
+            <td align="left" valign="center" width="15%">  <b> Dog </b>
         </tr>
+        <tr>
+            <td align="left" valign="center" width="10%">  <b> 1 </b>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label1_Image637.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label1_Image1335.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label1_Image1731.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label1_Image2093.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label1_Image2152.jpg"> </td>
+            <td align="left" valign="center" width="15%">  <b> Chair </b>
+        </tr>
+        <tr>
+            <td align="left" valign="center" width="10%">  <b> 2 </b>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label2_Image382.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label2_Image668.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label2_Image2667.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label2_Image2789.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label2_Image4706.jpg"> </td>
+            <td align="left" valign="center" width="15%">  <b> Train </b>
+        </tr>
+        <tr>
+            <td align="left" valign="center" width="10%">  <b> 3 </b>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label3_Image886.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label3_Image982.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label3_Image2422.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label3_Image3803.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label3_Image4923.jpg"> </td>
+            <td align="left" valign="center" width="15%">  <b> Bottle </b>
+        </tr>
+                <tr>
+            <td align="left" valign="center" width="10%">  <b> 4 </b>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label4_Image356.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label4_Image1923.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label4_Image3427.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label4_Image3552.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label4_Image3678.jpg"> </td>
+            <td align="left" valign="center" width="15%">  <b> Airplane </b>
+        </tr>
+                <tr>
+            <td align="left" valign="center" width="10%">  <b> 5 </b>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label5_Image1535.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label5_Image3523.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label5_Image3742.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label5_Image4817.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label5_Image4872.jpg"> </td>
+            <td align="left" valign="center" width="15%">  <b> Car </b>
+        </tr>
+                <tr>
+            <td align="left" valign="center" width="10%">  <b> 6 </b>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label6_Image1504.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label6_Image1820.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label6_Image2291.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label6_Image2989.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label6_Image4466.jpg"> </td>
+            <td align="left" valign="center" width="15%">  <b> Cow </b>
+        </tr>
+                        <tr>
+            <td align="left" valign="center" width="10%">  <b> 7 </b>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label7_Image598.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label7_Image2442.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label7_Image2932.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label7_Image3029.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label7_Image3748.jpg"> </td>
+            <td align="left" valign="center" width="15%">  <b> Bus </b>
+        </tr>
+                        <tr>
+            <td align="left" valign="center" width="10%">  <b> 8 </b>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label8_Image228.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label8_Image1486.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label8_Image2767.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label8_Image3374.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label8_Image4236.jpg"> </td>
+            <td align="left" valign="center" width="15%">  <b> Motorcycle </b>
+        </tr>
+                        <tr>
+            <td align="left" valign="center" width="10%">  <b> 9 </b>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label9_Image2049.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label9_Image3014.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label9_Image3081.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label9_Image4275.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label9_Image4447.jpg"> </td>
+            <td align="left" valign="center" width="15%">  <b> Human </b>
+        </tr>
+                        <tr>
+            <td align="left" valign="center" width="10%">  <b> 10 </b>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label10_Image407.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label10_Image1284.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label10_Image2520.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label10_Image3371.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label10_Image3926.jpg"> </td>
+            <td align="left" valign="center" width="15%">  <b> Dog?? </b>
+        </tr>
+                                <tr>
+            <td align="left" valign="center" width="10%">  <b> 11 </b>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label11_Image99.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label11_Image2176.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label11_Image2427.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label11_Image3787.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label11_Image4233.jpg"> </td>
+            <td align="left" valign="center" width="15%">  <b> Computer </b>
+        </tr>
+                                <tr>
+            <td align="left" valign="center" width="10%">  <b> 12 </b>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label12_Image211.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label12_Image2629.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label12_Image4192.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label12_Image4432.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label12_Image4586.jpg"> </td>
+            <td align="left" valign="center" width="15%">  <b> Ship </b>
+        </tr>
+                               <tr>
+            <td align="left" valign="center" width="10%">  <b> 13 </b>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label13_Image239.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label13_Image1643.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label13_Image1977.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label13_Image2908.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label13_Image3535.jpg"> </td>
+            <td align="left" valign="center" width="15%">  <b> Human?? </b>
+        </tr>
+                               <tr>
+            <td align="left" valign="center" width="10%">  <b> 14 </b>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label14_Image353.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label14_Image509.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label14_Image2833.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label14_Image3946.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label14_Image4745.jpg"> </td>
+            <td align="left" valign="center" width="15%">  <b> Horse </b>
+        </tr>
+                               <tr>
+            <td align="left" valign="center" width="10%">  <b> 15 </b>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label15_Image14.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label15_Image2254.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label15_Image3138.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label15_Image3881.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label15_Image4824.jpg"> </td>
+            <td align="left" valign="center" width="15%">  <b> ??? </b>
+        </tr>
+
+
+
     </tbody>
 </table>
 
