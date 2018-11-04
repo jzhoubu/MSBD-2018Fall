@@ -24,9 +24,9 @@ Thus, it makes sense to use ResNet to embed images into vector so that I can app
         </tr>
         <tr>
             <td align="center" valign="top" width="25%">  <b>Index</b>: 00000 <br />   <b>Probs</b>: 0.798<br />   <b>Class</b>: {black stork}  </td>
-            <td width="25%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/5002A3_00000.jpg"> </td>
-            <td width="25%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/5002A3_00000_cam.jpg"> </td>
-            <td width="25%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/5002A3_00000_gbp.jpg"> </td>
+            <td width="25%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_00000.jpg"> </td>
+            <td width="25%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_00000_cam.png"> </td>
+            <td width="25%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_00000_cam.png"> </td>
         </tr>
     </tbody>
 </table>
