@@ -50,7 +50,7 @@ Some network visualization technologies(eg. cam and gbp) are taken as safety bel
 
 
 ### 2. Define K
-Base on the research consequence above, ImageNet model (eg. ResNet, DenseNet) shall have ability to predict, or say cluster the types of images, though we don't know whether this dataset is inside ImageNet or not. During my experiment, `ResNet152` from `torchvision` return about 600 type of labels for our dataset. I would like to cluster these labels to get an approximate value of `K` at first.
+Base on the research consequence above, ImageNet model (eg. ResNet, DenseNet) shall have ability to predict, or say cluster different types of images, even though the dataset is not inside ImageNet. During my experiment, `ResNet152` from `torchvision` return about 600 types of labels for our dataset. I would like to cluster these labels to get an approximate value of `K` at first.
 
 Early works[4] show that the Euclidean distance (or cosine similarity) between two word vectors is an effective method for measuring the linguistic or semantic similarity of the corresponding words. So, I use to ResNet152 to predict our image dataset, following word2vec to embed the label into vector, and apply dendrogram on the word vector to figure out an approximate value of `K`. Below is the cluster result of **dendrogram** for label word vector: 
 
