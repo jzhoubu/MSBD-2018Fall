@@ -23,11 +23,10 @@ Thus, it makes sense to use ResNet to embed images into vector so that I can app
             <th align="left" valign="top"> <b>Guided BackPropagation</b></td>
         </tr>
         <tr>
-            <td align="center" valign="top" width="20%">  <b>Index</b>: 00000 <br />   <b>Probs</b>: 0.938<br />   <b>Class</b>: {bull mastiff}  </td>
-            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/5002A3_00000.jpg"> </td>
-            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/ClassActivationMaps/bike_2.jpg"> </td>
-            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/ClassActivationMaps/bike_3.jpg"> </td>
-            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/ClassActivationMaps/bike_4.jpg"> </td>
+            <td align="center" valign="top" width="25%">  <b>Index</b>: 00000 <br />   <b>Probs</b>: 0.798<br />   <b>Class</b>: {black stork}  </td>
+            <td width="25%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/5002A3_00000.jpg"> </td>
+            <td width="25%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/5002A3_00000_cam.jpg"> </td>
+            <td width="25%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/5002A3_00000_gbp.jpg"> </td>
         </tr>
     </tbody>
 </table>
