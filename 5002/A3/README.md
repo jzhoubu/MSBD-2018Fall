@@ -23,19 +23,19 @@ Thus, it makes sense to use ResNet to embed images into vector so that I can app
             <th align="left" valign="top"> <b>Guided BackPropagation</b></td>
         </tr>
         <tr>
-            <td align="center" valign="top" width="25%">  <b>Index</b>: 00000 <br />   <b>Probs</b>: 0.798<br />   <b>Class</b>: {black stork, Ciconia nigra}  </td>
+            <td align="left" valign="center" width="25%">  <b>Index</b>: 00000 <br />   <b>Probs</b>: 0.798<br />   <b>Class</b>: {black stork, Ciconia nigra}  </td>
             <td width="25%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_00000.jpg"> </td>
             <td width="25%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_00000_cam.png"> </td>
             <td width="25%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_00000_gbp.png"> </td>
         </tr>
         <tr>
-            <td align="center" valign="top" width="25%">  <b>Index</b>: 00001 <br />   <b>Probs</b>: 0.709<br />   <b>Class</b>: {patio, terrace}  </td>
+            <td align="left" valign="center" width="25%">  <b>Index</b>: 00001 <br />   <b>Probs</b>: 0.709<br />   <b>Class</b>: {patio, terrace}  </td>
             <td width="25%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_00001.jpg"> </td>
             <td width="25%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_00001_cam.png"> </td>
             <td width="25%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_00001_gbp.png"> </td>
         </tr>
         <tr>
-            <td align="center" valign="top" width="25%">  <b>Index</b>: 00002 <br />   <b>Probs</b>: 0.443<br />   <b>Class</b>: {kite}  </td>
+            <td align="left" valign="center" width="25%">  <b>Index</b>: 00002 <br />   <b>Probs</b>: 0.443<br />   <b>Class</b>: {kite}  </td>
             <td width="25%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_00002.jpg"> </td>
             <td width="25%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_00002_cam.png"> </td>
             <td width="25%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_00002_gbp.png"> </td>
