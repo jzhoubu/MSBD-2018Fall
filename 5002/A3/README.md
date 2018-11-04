@@ -17,13 +17,17 @@ Thus, it makes sense to use ResNet to embed images into vector so that I can app
 ### 2. Define K
 Base on the research consequence above, ImageNet model (eg. ResNet, DenseNet) shall have ability to predict, or say cluster the types of images, though we don't know whether this dataset is inside ImageNet or not. During my experiment, `ResNet152` from `torchvision` return about 600 type of labels for our dataset. I would like to cluster these labels to get an approximate value of `K` at first.
 
-Early works[3] show that the Euclidean distance (or cosine similarity) between two word vectors is an effective method for measuring the linguistic or semantic similarity of the corresponding words. So, I use to ResNet152 to predict our image dataset, following word2vec to embed the label into vector, and apply dendrogram on the word vector to figure out an approximate value of `K`. Below is the result of dendrogram for label word vector: 
+Early works[3] show that the Euclidean distance (or cosine similarity) between two word vectors is an effective method for measuring the linguistic or semantic similarity of the corresponding words. So, I use to ResNet152 to predict our image dataset, following word2vec to embed the label into vector, and apply dendrogram on the word vector to figure out an approximate value of `K`. Below is the cluster result of **dendrogram** for label word vector: 
 
 <table border=0 >
     <tbody>
         <tr>
             <td width="20%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_Dendrogram500.png"> </td>
+        </tr>
+        <tr>
             <td width="20%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_Dendrogram200.png"> </td>
+        </tr>
+        <tr>
             <td width="20%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_Dendrogram100.png"> </td>
         </tr>
     </tbody>
