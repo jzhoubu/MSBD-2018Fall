@@ -17,10 +17,10 @@ Thus, it makes sense to use ResNet to embed images into vector so that I can app
 <table border=0 >
     <tbody>
         <tr>
-            <th align="center" valign="center">  <b>Sample</b> </td>
-            <th align="center" valign="center"> <b>Original Image</b></td>
-            <th align="center" valign="center"> <b>Class Activation Mapping</b></td>
-            <th align="center" valign="center"> <b>Guided BackPropagation</b></td>
+            <th align="center" valign="center">  <b>Sample</b> </th>
+            <th align="center" valign="center"> <b>Original Image</b></th>
+            <th align="center" valign="center"> <b>Class Activation Mapping</b></th>
+            <th align="center" valign="center"> <b>Guided BackPropagation</b></th>
         </tr>
         <tr>
             <td align="left" valign="center" width="25%">  <b>Index</b>: 00000 <br />   <b>Probs</b>: 0.798<br />   <b>Class </b>: {black stork, Ciconia nigra}  </td>
@@ -65,6 +65,34 @@ Early works[4] show that the Euclidean distance (or cosine similarity) between t
 </table>
 
 I will choose the inflection point in dendrogram where **K=20**
+
+### 3. K-means clustering
+I use K-means to cluster the 5011 samples each with 2048 features embedded by `ResNet152`. 
+
+I also do random sampling and try to interpret the meaning of each cluster. Results are shown below:
+<table border=0 >
+    <tbody>
+        <tr>
+            <th align="center" valign="center" width="10%">  <b>Cluster</b> </th>
+            <th align="center" valign="center" width="15%"> <b>Sample1</b></th>
+            <th align="center" valign="center" width="15%"> <b>Sample2</b></th>
+            <th align="center" valign="center" width="15%"> <b>Sample3</b></th>
+            <th align="center" valign="center" width="15%"> <b>Sample4</b></th>
+            <th align="center" valign="center" width="15%"> <b>Sample5</b></th>
+            <th align="center" valign="center" width="15%"> <b>Interpret</b></th>
+        </tr>
+        <tr>
+            <td align="left" valign="center" width="10%">  <b>Cluster1</b>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label0_Image558.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label0_Image1579.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label0_Image2134.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label0_Image2782.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label0_Image4603.jpg"> </td>
+            <td align="left" valign="center" width="15%">  <b>Interpret</b>: Dog
+        </tr>
+    </tbody>
+</table>
+
 
 
 
