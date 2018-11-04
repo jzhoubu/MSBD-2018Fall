@@ -12,15 +12,15 @@ In this assignment, we need to cluster a certain amount of image data without ex
 > An implicit hypothesis in modern computer vision research[1] is that models that perform better on ImageNet necessarily perform better on other vision tasks. 
 Recently, a research has been done by Google Brain, which shows that ImageNet architectures generalize well across datasets. 
 
-Thus, it makes sense to use ResNet to embed images into vector so that I can apply unsupervised learning on images. My notebook `1103-GlanceData.ipynb` ensures both the stability and accuracy on ResNet152 across the assignment dataset by applying class **activation mapping**[2].
+Thus, it makes sense to use ResNet to embed images into vector so that I can apply unsupervised learning on images. My notebook `1103-GlanceData.ipynb` ensures both the stability and accuracy on ResNet152 across the assignment dataset by applying **class activation mapping**[2] and **Guided BackPropagation**[3]
 
 <table border=0 >
     <tbody>
         <tr>
-            <th align="center" valign="top">  <b>Sample</b> </td>
-            <th align="left" valign="top"> <b>Original Image</b></td>
-            <th align="left" valign="top"> <b>Class Activation Mapping</b></td>
-            <th align="left" valign="top"> <b>Guided BackPropagation</b></td>
+            <th align="center" valign="center">  <b>Sample</b> </td>
+            <th align="center" valign="center"> <b>Original Image</b></td>
+            <th align="center" valign="center"> <b>Class Activation Mapping</b></td>
+            <th align="center" valign="center"> <b>Guided BackPropagation</b></td>
         </tr>
         <tr>
             <td align="left" valign="center" width="25%">  <b>Index</b>: 00000 <br />   <b>Probs</b>: 0.798<br />   <b>Class</b>: {black stork, Ciconia nigra}  </td>
@@ -45,14 +45,14 @@ Thus, it makes sense to use ResNet to embed images into vector so that I can app
 
 
 
-
+Network visualization technology is taken to ensure 
 
 
 
 ### 2. Define K
 Base on the research consequence above, ImageNet model (eg. ResNet, DenseNet) shall have ability to predict, or say cluster the types of images, though we don't know whether this dataset is inside ImageNet or not. During my experiment, `ResNet152` from `torchvision` return about 600 type of labels for our dataset. I would like to cluster these labels to get an approximate value of `K` at first.
 
-Early works[3] show that the Euclidean distance (or cosine similarity) between two word vectors is an effective method for measuring the linguistic or semantic similarity of the corresponding words. So, I use to ResNet152 to predict our image dataset, following word2vec to embed the label into vector, and apply dendrogram on the word vector to figure out an approximate value of `K`. Below is the cluster result of **dendrogram** for label word vector: 
+Early works[4] show that the Euclidean distance (or cosine similarity) between two word vectors is an effective method for measuring the linguistic or semantic similarity of the corresponding words. So, I use to ResNet152 to predict our image dataset, following word2vec to embed the label into vector, and apply dendrogram on the word vector to figure out an approximate value of `K`. Below is the cluster result of **dendrogram** for label word vector: 
 
 <table border=0 >
     <tbody>
@@ -72,4 +72,6 @@ Early works[3] show that the Euclidean distance (or cosine similarity) between t
 
 [2] Learning Deep Features for Discriminative Localization [[Link](https://arxiv.org/pdf/1512.04150.pdf)]
 
-[3] Distributed Representations of Words and Phrases and their Compositionality [[Link](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)]
+[3] STRIVING FOR SIMPLICITY: THE ALL CONVOLUTIONAL NET [[Link](https://arxiv.org/pdf/1412.6806.pdf)]
+
+[4] Distributed Representations of Words and Phrases and their Compositionality [[Link](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)]
