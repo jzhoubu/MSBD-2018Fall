@@ -22,13 +22,9 @@ Early works[3] show that the Euclidean distance (or cosine similarity) between t
 <table border=0 >
     <tbody>
         <tr>
-            <td width="20%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_Dendrogram500.png"> </td>
-        </tr>
-        <tr>
-            <td width="20%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_Dendrogram200.png"> </td>
-        </tr>
-        <tr>
-            <td width="20%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_Dendrogram100.png"> </td>
+            <td width="25%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_Dendrogram500.png"> </td>
+            <td width="25%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_Dendrogram200.png"> </td>
+            <td width="50%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_Dendrogram100.png"> </td>
         </tr>
     </tbody>
 </table>
