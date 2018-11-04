@@ -205,7 +205,7 @@ I also do random sampling and try to interpret the meaning of each cluster. Resu
             <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label13_Image1977.jpg"> </td>
             <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label13_Image2908.jpg"> </td>
             <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label13_Image3535.jpg"> </td>
-            <td align="left" valign="center" width="15%">  <b> Human?? </b>
+            <td align="left" valign="center" width="15%">  <b> Table </b>
         </tr>
                                <tr>
             <td align="left" valign="center" width="10%">  <b> 14 </b>
@@ -225,9 +225,42 @@ I also do random sampling and try to interpret the meaning of each cluster. Resu
             <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label15_Image4824.jpg"> </td>
             <td align="left" valign="center" width="15%">  <b> ??? </b>
         </tr>
-
-
-
+                               <tr>
+            <td align="left" valign="center" width="10%">  <b> 16 </b>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label16_Image801.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label16_Image1146.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label16_Image2285.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label16_Image3867.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label16_Image4498.jpg"> </td>
+            <td align="left" valign="center" width="15%">  <b> Car?? </b>
+        </tr>
+                               <tr>
+            <td align="left" valign="center" width="10%">  <b> 17 </b>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label17_Image315.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label17_Image953.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label17_Image1934.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label17_Image4034.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label17_Image4843.jpg"> </td>
+            <td align="left" valign="center" width="15%">  <b> Cat </b>
+        </tr>
+                               <tr>
+            <td align="left" valign="center" width="10%">  <b> 18 </b>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label18_Image739.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label18_Image3700.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label18_Image3718.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label18_Image4367.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label18_Image4395.jpg"> </td>
+            <td align="left" valign="center" width="15%">  <b> ??? </b>
+        </tr>
+                                <tr>
+            <td align="left" valign="center" width="10%">  <b> 19 </b>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label19_Image384.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label19_Image922.jpg"> </td>
+            <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label19_Image1508.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label19_Image1748.jpg"> </td>
+            <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label19_Image3428.jpg"> </td>
+            <td align="left" valign="center" width="15%">  <b> ??? </b>
+        </tr>
     </tbody>
 </table>
 
