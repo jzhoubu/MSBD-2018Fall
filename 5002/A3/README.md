@@ -12,7 +12,7 @@ In this assignment, we need to cluster a certain amount of image data without ex
 > An implicit hypothesis in modern computer vision research[1] is that models that perform better on ImageNet necessarily perform better on other vision tasks. 
 Recently, a research has been done by Google Brain, which shows that ImageNet architectures generalize well across datasets. 
 
-Thus, it makes sense to use ResNet to embed images into vector so that I can apply unsupervised learning on images. My notebook `1103-GlanceData.ipynb` ensures both the stability and accuracy on ResNet152 across the assignment dataset by applying **class activation mapping**[2] and **Guided BackPropagation**[3]
+Thus, it makes sense to use ResNet to embed images into vector so that I can apply unsupervised learning on images. My notebook `1103-GlanceData.ipynb` ensures both the stability and accuracy on ResNet152 across the assignment dataset by applying **Class Activation Mapping**[2] and **Guided BackPropagation**[3]
 
 <table border=0 >
     <tbody>
@@ -23,19 +23,19 @@ Thus, it makes sense to use ResNet to embed images into vector so that I can app
             <th align="center" valign="center"> <b>Guided BackPropagation</b></td>
         </tr>
         <tr>
-            <td align="left" valign="center" width="25%">  <b>Index</b>: 00000 <br />   <b>Probs</b>: 0.798<br />   <b>Class</b>: {black stork, Ciconia nigra}  </td>
+            <td align="left" valign="center" width="25%">  <b>Index</b>: 00000 <br />   <b>Probs</b>: 0.798<br />   <b>Class </b>: {black stork, Ciconia nigra}  </td>
             <td width="25%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_00000.jpg"> </td>
             <td width="25%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_00000_cam.png"> </td>
             <td width="25%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_00000_gbp.png"> </td>
         </tr>
         <tr>
-            <td align="left" valign="center" width="25%">  <b>Index</b>: 00001 <br />   <b>Probs</b>: 0.709<br />   <b>Class</b>: {patio, terrace}  </td>
+            <td align="left" valign="center" width="25%">  <b>Index</b>: 00001 <br />   <b>Probs</b>: 0.709<br />   <b>Class </b>: {patio, terrace}  </td>
             <td width="25%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_00001.jpg"> </td>
             <td width="25%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_00001_cam.png"> </td>
             <td width="25%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_00001_gbp.png"> </td>
         </tr>
         <tr>
-            <td align="left" valign="center" width="25%">  <b>Index</b>: 00002 <br />   <b>Probs</b>: 0.443<br />   <b>Class</b>: {kite}  </td>
+            <td align="left" valign="center" width="25%">  <b>Index</b>: 00002 <br />   <b>Probs</b>: 0.443<br />   <b>Class </b>: {kite}  </td>
             <td width="25%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_00002.jpg"> </td>
             <td width="25%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_00002_cam.png"> </td>
             <td width="25%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_00002_gbp.png"> </td>
@@ -45,7 +45,7 @@ Thus, it makes sense to use ResNet to embed images into vector so that I can app
 
 
 
-Network visualization technology is taken to ensure 
+Some network visualization technologies(eg. cam and gbp) are taken as safety belt to ensure the knowledge transfer.
 
 
 
