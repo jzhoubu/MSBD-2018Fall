@@ -14,6 +14,30 @@ Recently, a research has been done by Google Brain, which shows that ImageNet ar
 
 Thus, it makes sense to use ResNet to embed images into vector so that I can apply unsupervised learning on images. My notebook `1103-GlanceData.ipynb` ensures both the stability and accuracy on ResNet152 across the assignment dataset by applying class **activation mapping**[2].
 
+<table border=0 >
+    <tbody>
+        <tr>
+            <th align="center" valign="top">  <b>Sample</b> </td>
+            <th align="left" valign="top"> <b>Original Image</b></td>
+            <th align="left" valign="top"> <b>Class Activation Mapping</b></td>
+            <th align="left" valign="top"> <b>Guided BackPropagation</b></td>
+        </tr>
+        <tr>
+            <td align="center" valign="top" width="20%">  <b>Index</b>: 00000 <br />   <b>Probs</b>: 0.938<br />   <b>Class</b>: {bull mastiff}  </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/5002A3_00000.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/ClassActivationMaps/bike_2.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/ClassActivationMaps/bike_3.jpg"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/XAI-Project/blob/master/images/ClassActivationMaps/bike_4.jpg"> </td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+
 ### 2. Define K
 Base on the research consequence above, ImageNet model (eg. ResNet, DenseNet) shall have ability to predict, or say cluster the types of images, though we don't know whether this dataset is inside ImageNet or not. During my experiment, `ResNet152` from `torchvision` return about 600 type of labels for our dataset. I would like to cluster these labels to get an approximate value of `K` at first.
 
