@@ -250,7 +250,7 @@ I also do random sampling and try to interpret the meaning of each cluster. Resu
             <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label18_Image3718.jpg"> </td>
             <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label18_Image4367.jpg"> </td>
             <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label18_Image4395.jpg"> </td>
-            <td align="left" valign="center" width="15%">  <b> ??? </b>
+            <td align="left" valign="center" width="15%">  <b> Bike </b>
         </tr>
                                 <tr>
             <td align="left" valign="center" width="10%">  <b> 19 </b>
@@ -259,7 +259,7 @@ I also do random sampling and try to interpret the meaning of each cluster. Resu
             <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label19_Image1508.jpg"> </td>
             <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label19_Image1748.jpg"> </td>
             <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3_label19_Image3428.jpg"> </td>
-            <td align="left" valign="center" width="15%">  <b> ??? </b>
+            <td align="left" valign="center" width="15%">  <b> Bird </b>
         </tr>
     </tbody>
 </table>
