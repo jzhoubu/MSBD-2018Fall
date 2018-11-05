@@ -5,14 +5,15 @@ In this assignment, we need to cluster a certain amount of image data without ex
 
 # Overview
 1. Use imagenet state-of-art model to embed images
-2. Find out the best number of K for cluster
+2. Find out the best value of K for cluster
 3. Use different model and strategy to cluster
 
 ### 1. Embed Images
 > An implicit hypothesis in modern computer vision research[1] is that models that perform better on ImageNet necessarily perform better on other vision tasks. 
 Recently, a research has been done by Google Brain, which shows that ImageNet architectures generalize well across datasets. 
 
-Thus, it makes sense to use ResNet to embed images into vector so that I can apply unsupervised learning on images. My notebook `1103-GlanceData.ipynb` ensures both the stability and accuracy on ResNet152 across the assignment dataset by applying **Class Activation Mapping**[2] and **Guided BackPropagation**[3]
+Though we have reference to support this assumption, we still need to evaluate the predicting ability for ResNet on this dataset.
+My notebook `1103-GlanceData.ipynb` apply **Class Activation Mapping**[2] and **Guided BackPropagation**[3] to ensure the stability and accuracy on ResNet152 across the assignment dataset.
 
 <table border=0 >
     <tbody>
@@ -49,10 +50,10 @@ Some network visualization technologies(eg. cam and gbp) are taken as safety bel
 
 
 
-### 2. Define K
+### 2. Selection of K
 Base on the research consequence above, ImageNet model (eg. ResNet, DenseNet) shall have ability to predict, or say cluster different types of images, even though the dataset is not inside ImageNet. During my experiment, `ResNet152` from `torchvision` return about 600 types of labels for our dataset. I would like to cluster these labels to get an approximate value of `K` at first.
 
-Early works[4] show that the Euclidean distance (or cosine similarity) between two word vectors is an effective method for measuring the linguistic or semantic similarity of the corresponding words. So, I use to ResNet152 to predict our image dataset, following word2vec to embed the label into vector, and apply dendrogram on the word vector to figure out an approximate value of `K`. Below is the cluster result of **dendrogram** for label word vector: 
+Early works[4] show that the Euclidean distance (or cosine similarity) between two word vectors is an effective method for measuring the linguistic or semantic similarity of the corresponding words. So, I use ResNet152 to predict our image dataset, following word2vec to embed the label into vector, and apply dendrogram on the word vector to figure out an approximate value of `K`. Below is the cluster result of **dendrogram** for label word vector: 
 
 <table border=0 >
     <tbody>
