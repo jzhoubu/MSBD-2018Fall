@@ -1,4 +1,4 @@
->Hi, this is a repo built for students major in big data technology(BDT) in HKUST .  \
+>Hi, this is a repo built for students major in big data technology(BDT) in HKUST.  \
 > Feel free to send a pull request on the repo to help each other improve the programming skill.
 
 # Summary
@@ -13,7 +13,7 @@ The **Goal** of this repo is:
 - Deadline(10/10/2018): 5001 Midterm 
 - Deadline(10/12/2018): 5003 Assignment 1 
 - Deadline(10/23/2018): 5002 Midterm 
-- Deadline(10/24/2018): 5005 Presentation [[Demo](https://sysu-zjw.github.io/5005TopVIS/)]
+- Deadline(10/24/2018): 5005 Individual Presentation [[Demo](https://sysu-zjw.github.io/5005TopVIS/)]
 - Deadline(10/25/2018): 5002 Assignment 2 [Solution]
 - Deadline(10/26/2018): 5001 Group Project Proposal 
 - Deadline(10/26/2018): 5003 Assignment 2 
@@ -21,6 +21,8 @@ The **Goal** of this repo is:
 - Deadline(11/01/2018): 5005 Group Project Proposal 
 - **Deadline(11/12/2018)**: 5003 Assignment 3
 - **Deadline(11/13/2018)**: 5002 Assignment 3 
+- **Deadline(11/15/2018)**: 5005 Short Eassy
+- **Deadline(11/26/2018)**: 5003 Group Project Presentation 
 - **Deadline(11/30/2018)**: 5002 Project [Killing me]
 - **Deadline(12/10/2018)**: 5003 Final 
 - **Deadline(12/11/2018)**: 5002 Final 
