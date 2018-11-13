@@ -4,9 +4,14 @@ In this assignment, we need to cluster a certain amount of image data without ex
 
 
 # Overview
-1. Use imagenet state-of-art model to embed images
-2. Find out the best value of K for cluster
-3. Use different model and strategy to cluster
+> The part of image processing will take hours to be done. I provide all progress log in my notebook, in case you want to take a glance at notebook first.
+
+0. Glance data and evaluate the performance of pretrained `ResNet`. See `1103-GlanceData(NoNeedtoRun).ipynb`
+1. Use imagenet state-of-art model to embed images. See `1103-EmbedImages.ipynb` or `main.py`
+2. Find out the best value of K for cluster. See `1104-FindK.ipynb`
+3. Use Keamns to cluster. See `1104-Cluster.ipynb` or `main.py`
+
+
 
 ### 1. Embed Images
 > An implicit hypothesis in modern computer vision research[1] is that models that perform better on ImageNet necessarily perform better on other vision tasks. 
@@ -45,15 +50,11 @@ My notebook `1103-GlanceData.ipynb` apply **Class Activation Mapping**[2] and **
 </table>
 
 
-
 Some network visualization technologies(eg. cam and gbp) are taken as safety belt to ensure the knowledge transfer.
 
 
-
 ### 2. Selection of K
-Base on the research consequence above, ImageNet model (eg. ResNet, DenseNet) shall have ability to predict, or say cluster different types of images, even though the dataset is not inside ImageNet. During my experiment, `ResNet152` from `torchvision` return about 600 types of labels for our dataset. I would like to cluster these labels to get an approximate value of `K` at first.
-
-Early works[4] show that the Euclidean distance (or cosine similarity) between two word vectors is an effective method for measuring the linguistic or semantic similarity of the corresponding words. So, I use ResNet152 to predict our image dataset, following word2vec to embed the label into vector, and apply dendrogram on the word vector to figure out an approximate value of `K`. Below is the cluster result of **dendrogram** for label word vector: 
+During my experiment, `ResNet152` from `torchvision` return about 600 types of labels for our dataset. I would like to cluster these labels first to get an approximate value of `K`. Early works[4] show that the Euclidean distance (or cosine similarity) between two word vectors is an effective method for measuring the linguistic or semantic similarity of the corresponding words. Thus I would use Euclidean distance to measure the distance between word vectors. Below is the cluster result of **dendrogram** for label word vector: 
 
 <table border=0 >
     <tbody>
@@ -68,10 +69,9 @@ Early works[4] show that the Euclidean distance (or cosine similarity) between t
 I will choose the inflection point in dendrogram where **K=20**
 
 ### 3. K-means clustering
-I use K-means to cluster the 5011 samples each with 2048 features embedded by `ResNet152`. 
+K-means is used to cluster the 5011 samples each with 2048 features embedded by `ResNet152`. 
+Random sampling is applied to find out if each cluster make sense. Results are shown below:
 
-I also do random sampling and try to interpret the meaning of each cluster. Results are shown below:
-### 11.12 Update
 <table border=0 >
     <tbody>
         <tr>
@@ -189,7 +189,7 @@ I also do random sampling and try to interpret the meaning of each cluster. Resu
             <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3/5002A3_label11_Image4002.jpg"> </td>
             <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3/5002A3_label11_Image1664.jpg"> </td>
             <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3/5002A3_label11_Image3721.jpg"> </td>
-            <td align="left" valign="center" width="15%">  <b> ? </b>
+            <td align="left" valign="center" width="15%">  <b> Board/Building? </b>
         </tr>
                                 <tr>
             <td align="left" valign="center" width="10%">  <b> 12 </b>
@@ -216,7 +216,7 @@ I also do random sampling and try to interpret the meaning of each cluster. Resu
             <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3/5002A3_label14_Image2058.jpg"> </td>
             <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3/5002A3_label14_Image3423.jpg"> </td>
             <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3/5002A3_label14_Image1490.jpg"> </td>
-            <td align="left" valign="center" width="15%">  <b> Dog </b>
+            <td align="left" valign="center" width="15%">  <b> Dog (terrier)</b>
         </tr>
                                <tr>
             <td align="left" valign="center" width="10%">  <b> 15 </b>
@@ -225,7 +225,7 @@ I also do random sampling and try to interpret the meaning of each cluster. Resu
             <td width="15%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3/5002A3_label15_Image4728.jpg"> </td>
             <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3/5002A3_label15_Image2134.jpg"> </td>
             <td width="15%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002A3/5002A3_label15_Image635.jpg"> </td>
-            <td align="left" valign="center" width="15%">  <b> Dog again </b>
+            <td align="left" valign="center" width="15%">  <b> Dog (whippet) </b>
         </tr>
                                <tr>
             <td align="left" valign="center" width="10%">  <b> 16 </b>
@@ -265,13 +265,6 @@ I also do random sampling and try to interpret the meaning of each cluster. Resu
         </tr>
     </tbody>
 </table>
-
-
-
-
-
-
-
 
 
 
