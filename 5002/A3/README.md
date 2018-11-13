@@ -7,9 +7,9 @@ In this assignment, we need to cluster a certain amount of image data without ex
 > The part of image processing will take hours to be done. I provide all progress log in my notebook, in case you want to take a glance at notebook first.
 
 0. Glance data and evaluate the performance of pretrained `ResNet`. See `1103-GlanceData(NoNeedtoRun).ipynb`
-1. Use imagenet state-of-art model to embed images. See `1103-EmbedImages.ipynb` or `main.py`
-2. Find out the best value of K for cluster. See `1104-FindK.ipynb`
-3. Use Keamns to cluster. See `1104-Cluster.ipynb` or `main.py`
+1. Imagenet state-of-art model is used to embed images. See `1103-EmbedImages.ipynb` or `main.py`
+2. Number of clusters `K` to be decided. See `1104-FindK.ipynb`
+3. K-means is used to cluster. See `1104-Cluster.ipynb` or `main.py`
 
 
 
@@ -266,6 +266,7 @@ Random sampling is applied to find out if each cluster make sense. Results are s
     </tbody>
 </table>
 
+So far, we got 20 clusters. Among them, one is hard to explain what it is, and two are same animal but in different types. I think the performance is just fine, so I will remain them all.
 
 
 
