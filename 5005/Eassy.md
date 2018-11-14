@@ -24,7 +24,6 @@ In this part, we will see how a directed connected graph can be embed better:
                 <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5005Pre.png">
             </td>
         </tr>
-
         <tr>
             <td  width="50%" align="middle" valign="middle">  
                 <b> Two Group of Knledge </b>   <br /> 
@@ -35,13 +34,6 @@ In this part, we will see how a directed connected graph can be embed better:
             </td>
         </tr>
         <tr>
-
-
-
-
-
-https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5005Pre.png
-
 </table>
 
 
