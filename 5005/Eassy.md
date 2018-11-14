@@ -71,7 +71,7 @@ In this part, we will see how a directed connected graph can be embed better:
 </table>
 
 ### 3. Prospect
-3.1 Feature infomation transfer during machine --> Directed Connected Graph
+3.1 Feature infomation interact --> Directed Connected Graph\
 Recently, some works[5] point out that the current feature attribution methods for tree ensembles are inconsistent. Since information gain of a node is based on its parents, the relationship bewteen features is a directed connected graph, and chord diagram is a promising way to display feature knowledge. But whether it can guide data mining remains mystery, which makes its contribution hard to evaluate. 
 <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5005Eassy/5005E5.png">
 
