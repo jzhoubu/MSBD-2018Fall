@@ -77,7 +77,7 @@ Recently, some works[5] point out that the current feature attribution methods f
 
 #### 3.2 Stream of people transfer in school (Pulse of HKUST) --> Directed Connected Graph
 <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5005Eassy/5005E6.png">
-HKUST Pulse is an excellent work which shows human flow transfer at HKUST in real time. Luckily, with the method above, we could still embed one more group of knowledge into Chord Diagram.<br/>
+HKUST Pulse[6] is an excellent work which shows human flow transfer at HKUST in real time. Luckily, with the method above, we could still embed one more group of knowledge into Chord Diagram.<br/>
 
 I will use mathematic formulation here to represent Chord Diagram. The of Pulse of HKUST can be written in this way: <br/>
 
@@ -100,5 +100,6 @@ or how people in different floors of library travel at lunch time, which can ind
 [1] Directed graph [[Link](https://en.wikipedia.org/wiki/Directed_graph)]\
 [2] Hacking a chord diagram to visualize a flow [[Link](https://www.visualcinnamon.com/2015/08/stretched-chord.html)]\
 [3] The words in the LotR [[Link](https://www.visualcinnamon.com/portfolio/words-lord-of-the-rings)]\
-[4] Graph Demo from Prof. Qu [[Link](http://vis.cse.ust.hk/demos/ust/)]\
-[5] Consistent Individualized Feature Atribution for Tree Ensembles
+[4] Graph Demo [[Link](http://vis.cse.ust.hk/demos/ust/)]\
+[5] Consistent Individualized Feature Atribution for Tree Ensembles [[Link](https://arxiv.org/pdf/1802.03888.pdf)]\
+[6] HKUST Pulse [[Link](http://vis.cse.ust.hk/groups/pulse/)]
