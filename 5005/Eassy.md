@@ -9,8 +9,8 @@ In this part, we will see how a directed connected graph can be embed better:
 
 <table border=0 >
         <tr>
-            <td  width="50%" align="left" valign="top">  Two same level knowledge interact </td>
-            <td width="50%"> <a href="https://www2.deloitte.com/nl/nl/pages/deloitte-analytics/articles/onderwijs-resultaten-2015-state-of-the-state.html"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5005Eassy/5005E1.png"></td>
+            <td  width="20%" align="middle" valign="top">  Two same level knowledge interact </td>
+            <td width="80%"> <a href="https://www2.deloitte.com/nl/nl/pages/deloitte-analytics/articles/onderwijs-resultaten-2015-state-of-the-state.html"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5005Eassy/5005E1.png"></td>
         </tr>
 
 </table>
