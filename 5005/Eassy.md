@@ -56,7 +56,7 @@ In this part, we will see how a directed connected graph can be embed better:
             </td>
         </tr>
         <tr>
-            <td  width="40%" align="middle" valign="middle">  
+            <td  width="30%" align="middle" valign="middle">  
                  Two Group of Knowledge    <br /> 
                 <b> Multiple Vertical Level </b>   <br />
                  Interact with each other [4]  <br />  
@@ -64,7 +64,7 @@ In this part, we will see how a directed connected graph can be embed better:
             <td width="20%"> <a href="http://vis.cse.ust.hk/demos/ust/"> 
             <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5005Eassy/5005E4.png">
             </td>
-            <td width="40%" align="middle" valign="middle">
+            <td width="50%" align="middle" valign="middle">
                 This is not a chord diagram, but a very good example to use <b>vertical structure</b> to embed vertical domain of knowledge.
             </td>
         </tr>
