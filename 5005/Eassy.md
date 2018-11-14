@@ -72,10 +72,14 @@ In this part, we will see how a directed connected graph can be embed better:
 
 ### 3. Prospect
 3.1 Feature infomation interact --> Directed Connected Graph\
-Recently, some works[5] point out that the current feature attribution methods for tree ensembles are inconsistent. Since information gain of a node is based on its parents, the relationship bewteen features is a directed connected graph, and chord diagram is a promising way to display feature knowledge. But whether it can guide data mining remains mystery, which makes its contribution hard to evaluate. 
 <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5005Eassy/5005E5.png">
+Recently, some works[5] point out that the current feature attribution methods for tree ensembles are inconsistent. Since information gain of a node is based on its parents, the relationship bewteen features is a directed connected graph, and chord diagram is a promising way to display feature knowledge. But whether it can guide data mining remains mystery, which makes its contribution hard to evaluate. 
 
 3.2 Stream of people transfer in school (Pulse of HKUST) --> Directed Connected Graph
+<img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5005Eassy/5005E6.png">
+HKUST Pulse is an excellent work which shows human flow transfer at HKUST in real time. Luckily, with the method above, we could still embed one more group of knowledge into Chord Diagram. \
+I will use mathematic formulation here to represent Chord Diagram in which `T` for temporal and `S` for spatio. The of Pulse of HKUST can be written in this way: `T1(S({hall, bus, canteen, library, sports, acadmeic})) <--> T2(S({hall, bus, canteen, library, sports, acadmeic}))` where `T1` indicates 3 mins ago, `T2` indicates now.
+
 
 
 
@@ -83,5 +87,5 @@ Recently, some works[5] point out that the current feature attribution methods f
 [1] Directed graph [[Link](https://en.wikipedia.org/wiki/Directed_graph)]\
 [2] Hacking a chord diagram to visualize a flow [[Link](https://www.visualcinnamon.com/2015/08/stretched-chord.html)]\
 [3] The words in the LotR [[Link](https://www.visualcinnamon.com/portfolio/words-lord-of-the-rings)]\
-[4] Graph Demo from Prof. Qu [[Link](http://vis.cse.ust.hk/demos/ust/)]
+[4] Graph Demo from Prof. Qu [[Link](http://vis.cse.ust.hk/demos/ust/)]\
 [5] Consistent Individualized Feature Atribution for Tree Ensembles
