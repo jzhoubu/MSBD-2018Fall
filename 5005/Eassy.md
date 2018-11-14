@@ -9,13 +9,38 @@ In this part, we will see how a directed connected graph can be embed better:
 
 <table border=0 >
         <tr>
+            <td width="50%" align="middle" valign="middle">
+                <b> Directed Connected Graph </b>
+            </td>
+            <td width="50%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5005Eassy/5005E1.png">
+            </td>
+        </tr>
+        <tr>
+            <td width="50%" align="middle" valign="middle">
+                <b> Normal Chord Diagram </b>
+            </td>
+            <td width="50%"> 
+                <a href="https://sysu-zjw.github.io/5005TopVIS/">
+                <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5005Pre.png">
+            </td>
+        </tr>
+
+        <tr>
             <td  width="50%" align="middle" valign="middle">  
                 <b> Two Group of Knledge </b>   <br /> 
-                <b> Interact with each other </b>   <br /> 
-                <b> Same Level </b>   <br /> 
+                <b> Same Level </b>   <br />
+                <b> Interact with each other </b>   <br />  
             </td>
-            <td width="50%"> <a href="https://www2.deloitte.com/nl/nl/pages/deloitte-analytics/articles/onderwijs-resultaten-2015-state-of-the-state.html"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5005Eassy/5005E1.png"></td>
+            <td width="50%"> <a href="https://www2.deloitte.com/nl/nl/pages/deloitte-analytics/articles/onderwijs-resultaten-2015-state-of-the-state.html"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5005Eassy/5005E2.png">
+            </td>
         </tr>
+        <tr>
+
+
+
+
+
+https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5005Pre.png
 
 </table>
 
