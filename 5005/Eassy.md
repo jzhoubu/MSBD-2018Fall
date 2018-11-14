@@ -35,9 +35,9 @@ In this part, we will see how a directed connected graph can be embed better:
         </tr>
         <tr>
             <td  width="80%" align="middle" valign="middle">  
-                <b> Two Group of Knowledge </b>   <br /> 
-                <b> Same Vertical Level </b>   <br />
-                <b> Interact with other Attribute [3] </b>   <br />  
+                Two Group of Knowledge   <br /> 
+                Same Vertical Level   <br />
+                Interact with other <b>Attribute</b> [3]   <br />  
             </td>
             <td width="20%"> <a href="https://www.visualcinnamon.com/portfolio/words-lord-of-the-rings"> 
             <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5005Eassy/5005E3.png">
@@ -45,9 +45,9 @@ In this part, we will see how a directed connected graph can be embed better:
         </tr>
         <tr>
             <td  width="80%" align="middle" valign="middle">  
-                <b> Two Group of Knowledge </b>   <br /> 
+                 Two Group of Knowledge    <br /> 
                 <b> Multiple Vertical Level </b>   <br />
-                <b> Interact with each other [4] </b>   <br />  
+                 Interact with each other [4]  <br />  
             </td>
             <td width="20%"> <a href="http://vis.cse.ust.hk/demos/ust/"> 
             <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5005Eassy/5005E4.png">
@@ -60,7 +60,7 @@ In this part, we will see how a directed connected graph can be embed better:
 
 
 ### Reference
-[1] Directed graph [[Link](https://en.wikipedia.org/wiki/Directed_graph)]
-[2] Hacking a chord diagram to visualize a flow [[Link](https://www.visualcinnamon.com/2015/08/stretched-chord.html)]
-[3] The words in the LotR [[Link](https://www.visualcinnamon.com/portfolio/words-lord-of-the-rings)]
+[1] Directed graph [[Link](https://en.wikipedia.org/wiki/Directed_graph)]\
+[2] Hacking a chord diagram to visualize a flow [[Link](https://www.visualcinnamon.com/2015/08/stretched-chord.html)]\
+[3] The words in the LotR [[Link](https://www.visualcinnamon.com/portfolio/words-lord-of-the-rings)]\
 [4] Graph Demo [[Link](http://vis.cse.ust.hk/demos/ust/)]
