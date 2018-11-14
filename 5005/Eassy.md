@@ -9,41 +9,41 @@ In this part, we will see how a directed connected graph can be embed better:
 
 <table border=0 >
         <tr>
-            <td width="40%" align="middle" valign="middle">
+            <td width="30%" align="middle" valign="middle">
                 <b> Directed Connected Graph </b>
             </td>
             <td width="20%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5005Eassy/5005E1.png">
             </td>
-            <td width="40%" align="middle" valign="middle">
+            <td width="50%" align="middle" valign="middle">
                 This is a <b>directed connected graph</b> showing how cellphone market share change between two timestamps.
             </td>
         </tr>
         <tr>
-            <td width="40%" align="middle" valign="middle">
+            <td width="30%" align="middle" valign="middle">
                 <b> Normal Chord Diagram </b>
             </td>
             <td width="20%"> 
                 <a href="https://sysu-zjw.github.io/5005TopVIS/">
                 <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5005Pre.png">
             </td>
-            <td width="40%" align="middle" valign="middle">
+            <td width="50%" align="middle" valign="middle">
                 This is a <b>chord diagram</b> showing how cellphone market share change between two timestamps.
             </td>
         </tr>
         <tr>
-            <td  width="40%" align="middle" valign="middle">  
+            <td  width="30%" align="middle" valign="middle">  
                 <b> Two Group of Knowledge </b>   <br /> 
                 <b> Same Vertical Level </b>   <br />
                 <b> Interact with each other [2] </b>   <br />  
             </td>
             <td width="20%"> <a href="https://www2.deloitte.com/nl/nl/pages/deloitte-analytics/articles/onderwijs-resultaten-2015-state-of-the-state.html"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5005Eassy/5005E2.png">
             </td>
-        <td width="40%" align="middle" valign="middle">
+        <td width="50%" align="middle" valign="middle">
                 This is a <b>seperate chord diagram</b>  showing how 2 <b>groups</b> of knowledge (features) <b>associate</b> with each other.
             </td>
         </tr>
         <tr>
-            <td  width="40%" align="middle" valign="middle">  
+            <td  width="30%" align="middle" valign="middle">  
                 Two Group of Knowledge   <br /> 
                 Same Vertical Level   <br />
                 Interact with other <b>Attribute</b> [3]   <br />  
@@ -51,7 +51,7 @@ In this part, we will see how a directed connected graph can be embed better:
             <td width="20%"> <a href="https://www.visualcinnamon.com/portfolio/words-lord-of-the-rings"> 
             <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5005Eassy/5005E3.png">
             </td>
-            <td width="40%" align="middle" valign="middle">
+            <td width="50%" align="middle" valign="middle">
                 This is another seperate chord diagram showing how 2 groups of knowledge (features) <b>associate</b> with another group of attribute.
             </td>
         </tr>
