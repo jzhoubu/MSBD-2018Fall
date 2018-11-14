@@ -79,7 +79,7 @@ Recently, some works[5] point out that the current feature attribution methods f
 <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5005Eassy/5005E6.png">
 HKUST Pulse[6] is an excellent work which shows human flow transfer at HKUST in real time. Luckily, with the method above, we could still embed one more group of knowledge into Chord Diagram.<br/>
 
-I will use mathematic formulation here to represent Chord Diagram. The of Pulse of HKUST can be written in this way: <br/>
+I will use mathematic formulation here to represent Chord Diagram. For example, Pulse of HKUST can be written in this way: <br/>
 
 `T1(hall, bus, canteen, library, sports, acadmeic} <--> T2(hall, bus, canteen, library, sports, acadmeic)`  <br/>
 
@@ -89,9 +89,9 @@ With <b>separated chord diagram</b>, we can embed one more domain of knowledge, 
 
 `T1(hall, canteen, library, sports, acadmeic) <-- {PG, UG, PhD} --> T2(hall, canteen, library, sports, acadmeic)`  <br/>
 
-or how people in different floors of library travel at lunch time, which can indicate the availablity of both library and canteenr:<br/>
+or how people in different floors of library travel at lunch time, and we can indicate the availablity by hill:<br/>
 
-`T1(lg1, lg7, Mc) <-- {lg1, lg3, lg4} --> T2(lg1, lg7, Mc)`  <br/>
+`T(lg1, lg7, Mc) <--> T(lg1, lg3, lg4} `  <br/>
 
 
 
