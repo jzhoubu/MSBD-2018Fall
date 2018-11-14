@@ -80,11 +80,17 @@ Recently, some works[5] point out that the current feature attribution methods f
 HKUST Pulse is an excellent work which shows human flow transfer at HKUST in real time. Luckily, with the method above, we could still embed one more group of knowledge into Chord Diagram.<br/>
 I will use mathematic formulation here to represent Chord Diagram in which `T` for temporal and `S` for spatio. <br/>
 The of Pulse of HKUST can be written in this way: <br/>
+
 `T1( S{hall, bus, canteen, library, sports, acadmeic} ) <--> T2( S{hall, bus, canteen, library, sports, acadmeic} )`  <br/>
+
 where `T1` indicates 3 mins ago, `T2` indicates now.<br/>
+
 With separated chord diagram, we can embed one more domain of knowledge, like displaying how {UG, PG, PhD} transfer: <br/>
+
 `T1(S1, S2, S3) <-{PG, UG, PhD}-> T2(S1, S2, S3)`  <br/>
+
 or how people in different floors of library travel at lunch time, which can indicate the availablity of both library and canteenr:<br/>
+
 `T1(lg1, lg7, Mc) <-{lg1, lg3, lg4}-> T2(lg1, lg7, Mc)`  <br/>
 
 
