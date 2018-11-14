@@ -87,7 +87,7 @@ where `T1` indicates 3 mins ago, `T2` indicates now.<br/>
 
 With separated chord diagram, we can embed one more domain of knowledge, like displaying how {UG, PG, PhD} transfer: <br/>
 
-`T1(S1, S2, S3) <-- {PG, UG, PhD} --> T2(S1, S2, S3)`  <br/>
+`T1(hall, canteen, library, sports, acadmeic) <-- {PG, UG, PhD} --> T2(hall, canteen, library, sports, acadmeic)`  <br/>
 
 or how people in different floors of library travel at lunch time, which can indicate the availablity of both library and canteenr:<br/>
 
