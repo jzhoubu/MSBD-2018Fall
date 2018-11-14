@@ -77,10 +77,11 @@ Recently, some works[5] point out that the current feature attribution methods f
 
 #### 3.2 Stream of people transfer in school (Pulse of HKUST) --> Directed Connected Graph
 <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5005Eassy/5005E6.png">
-HKUST Pulse is an excellent work which shows human flow transfer at HKUST in real time. Luckily, with the method above, we could still embed one more group of knowledge into Chord Diagram. \
-I will use mathematic formulation here to represent Chord Diagram in which `T` for temporal and `S` for spatio. The of Pulse of HKUST can be written in this way: \
+HKUST Pulse is an excellent work which shows human flow transfer at HKUST in real time. Luckily, with the method above, we could still embed one more group of knowledge into Chord Diagram.<br/>
 
-`T1(S({hall, bus, canteen, library, sports, acadmeic})) <--> T2(S({hall, bus, canteen, library, sports, acadmeic}))` \
+I will use mathematic formulation here to represent Chord Diagram in which `T` for temporal and `S` for spatio. The of Pulse of HKUST can be written in this way: <br/>
+
+`T1(S({hall, bus, canteen, library, sports, acadmeic})) <--> T2(S({hall, bus, canteen, library, sports, acadmeic}))`  <br/>
 
 where `T1` indicates 3 mins ago, `T2` indicates now.
 
