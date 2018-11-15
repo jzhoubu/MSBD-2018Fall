@@ -2,9 +2,19 @@
 
 ### 1. Introduction
 A [link](https://sysu-zjw.github.io/5005TopVIS/) to my presentation of top VIS to introduce Chord Diagram. 
-In simple word, I think chord diagram is almost the best way to embed **directed connected graph**[1]. I fail to find any better insight nor design in Google Scholar, but I do find something impressive on other website. 
+In simple word, I think chord diagram is almost the best way to embed **directed connected graph**[1]. 
+#### 1.1 Where I find: [[Link](https://www.visualcinnamon.com/portfolio/phone-brand-switching)]
+#### 1.2 The encoding scheme  & message conveys:
+- Arc : the weight of instance (eg. market share of Apple, Samsung) 
+- Chord: the link between every two instances in a graph
+- Arc of Chord: the weight of directed link
+- Color of Chord: Net gain, whose link weight is larger
+
+#### 1.3 why impressive:
+Directed connected graph is common, which makes this work flexible and useful. It become even more amazing with js. When we touch the arc, chords would be presented only if they are related to the arc, which helps us better understand how the instances relate to others.
 
 ### 2. Related Work
+I fail to find any better insight nor design in Google Scholar, but I do find something impressive on other website. \
 In this part, we will see how a directed connected graph can be embed better:
 
 <table border=0 >
