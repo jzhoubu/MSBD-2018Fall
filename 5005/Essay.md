@@ -4,7 +4,7 @@
 A [link](https://sysu-zjw.github.io/5005TopVIS/) to my presentation of top VIS to introduce Chord Diagram. 
 In simple word, I think chord diagram is almost the best way to embed **directed connected graph**[1]. 
 #### 1.1 Where I found Chord Diagram: 
-[[Using “Data Storytelling” with a chord diagram](https://www.visualcinnamon.com/portfolio/phone-brand-switching)]
+[Using “Data Storytelling” with a chord diagram](https://www.visualcinnamon.com/portfolio/phone-brand-switching)
 
 #### 1.2 The encoding scheme  & message conveys:
 - Arc : the weight of instance (eg. market share of Apple, Samsung) 
