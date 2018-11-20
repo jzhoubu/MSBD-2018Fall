@@ -13,7 +13,7 @@ The **Goal** of this repo is:
 - Deadline(10/10/2018): 5001 Midterm 
 - Deadline(10/12/2018): 5003 Assignment 1 
 - Deadline(10/23/2018): 5002 Midterm 
-- Deadline(10/24/2018): 5005 Individual Presentation [[Demo](https://sysu-zjw.github.io/5005TopVIS/)]
+- Deadline(10/24/2018): 5005 Individual Presentation [[Demo](https://sysu-zjw.github.io/5005TopVIS/)]  [[Essay](https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/5005/Essay.md)]
 - Deadline(10/25/2018): 5002 Assignment 2 [Solution]
 - Deadline(10/26/2018): 5001 Group Project Proposal 
 - Deadline(10/26/2018): 5003 Assignment 2 
