@@ -22,6 +22,7 @@ The **Goal** of this repo is:
 - **Deadline(11/12/2018)**: 5003 Assignment 3
 - **Deadline(11/13/2018)**: 5002 Assignment 3 
 - **Deadline(11/15/2018)**: 5005 Short Eassy
+- **Deadline(11/21/2018)**: 5001 Individual Competition [[Solution](https://i.imgflip.com/1dq5fk.jpg)]
 - **Deadline(11/26/2018)**: 5003 Group Project Presentation 
 - **Deadline(11/30/2018)**: 5002 Project [Killing me]
 - **Deadline(12/10/2018)**: 5003 Final 
