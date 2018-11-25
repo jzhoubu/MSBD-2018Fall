@@ -1,8 +1,6 @@
 # A short research on Chord Diagram
-### 0. Top VIS Competition Demo
-<iframe class="blog__specific_iframe blog__article_width" src="https://sysu-zjw.github.io/5005TopVIS/" name="Phone Brand Switching" frameborder="0" marginwidth="0px" marginheight="0px" scrolling="no" align="middle"></iframe>
 
-
+### 0. Top VIS Competition Demo [[Link](https://sysu-zjw.github.io/5005TopVIS/)]
 
 ### 1. Introduction
 A [link](https://sysu-zjw.github.io/5005TopVIS/) to my presentation of top VIS to introduce Chord Diagram. 
