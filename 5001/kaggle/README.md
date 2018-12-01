@@ -1,11 +1,16 @@
 # In class competition for MSBD 5001
 
-# Introduction
-[<img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/kaggle_temp.jpg" width="480">](https://sysu-zjw.github.io/5005TopVIS/)
+# Runner Up Solution
 
-# Feature Engineering
-How to do feeature engineer? [[Link](https://www.zhihu.com/question/278539797/answer/403245337)]
+### Feature Engineering
+- Baisc Processing
+    + One hot encode `penalty`
+    + Drop `id`, `random_state`
+    + For `n_jobs`, replace  `-1` to `16`
+    + Taylor Series for `n_jobs`
 
+### Model Selection
+Models like Linear Regression and Neural Networks suffer from the feature `n_jobs` with multiplying power. Instead of selecting a better model to formula, I change the task from predicting computation time to evaluating performance between machines which means predicting difference or ratio between TA's computing resource and my computing resource.
 
-
-
+### Esemble Learning
+For final submission, I stack two LightGBM model each predicting  `Time`/`LocalTime`.
