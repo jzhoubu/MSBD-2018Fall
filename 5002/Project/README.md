@@ -14,15 +14,12 @@
 <table border=0 >
     <tbody>
         <tr>
-             <td width="20%" td align="center" valign="top">  <b>aotizhongxin</b> </td>
             <td width="80%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/aotizhongxin_aq.png"> </td>
         </tr>
       <tr>
-             <td width="20%" td align="center" valign="top">  <b>badaling</b> </td>
             <td width="80%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/badaling_aq.png"> </td>
         </tr>
       <tr>
-             <td width="20%" td align="center" valign="top">  <b>zhiwuyuan</b> </td>
             <td width="80%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/zhiwuyuan_aq.png"> </td>
         </tr>
     </tbody>
