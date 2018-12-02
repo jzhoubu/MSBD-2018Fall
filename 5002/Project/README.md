@@ -3,7 +3,7 @@
 ## EDA
 
 <details>
-  <summary>All stations</summary>
+  <summary> **All** </summary>
 
 | Station | Distribution | 
 |:------:| ------ | 
@@ -45,13 +45,27 @@
 
 </details>
 
-<details>
-  <summary>dongsihuan</summary>
-<img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/dongsihuan_aq.png" width="240">
-</details>
 
 <details>
-  <summary>nansanhuan</summary>
+  <summary>dongsihuan_aq</summary>
+<img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/dongsihuan_aq.png" width="240">
+
+<table border=0 >
+    <tbody>
+        <tr>
+            <td width="20%" >  Distribution Graph </td>
+            <td width="80%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/dongsihuan_aq.png"> </td>
+        </tr>
+    </tbody>
+</table>
+
+</details>
+
+
+
+
+<details>
+  <summary>nansanhuan_aq</summary>
 <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/nansanhuan_aq.png" width="240">
 </details>
 
