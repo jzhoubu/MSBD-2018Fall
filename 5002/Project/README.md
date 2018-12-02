@@ -41,20 +41,16 @@
 | dongsihuan | <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/dongsihuan_aq.png" width="240"> | 
 
 
-<table border=0 >
-    <tbody>
-        <tr>
-            <td width="80%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/aotizhongxin_aq.png"> </td>
-        </tr>
-      <tr>
-            <td width="80%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/badaling_aq.png"> </td>
-        </tr>
-      <tr>
-            <td width="80%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/zhiwuyuan_aq.png"> </td>
-        </tr>
-    </tbody>
-</table>
+## 问答
 
+<details>
+  <summary>dongsihuan</summary>
+<img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/dongsihuan_aq.png" width="240"></details>
+
+<details>
+  <summary>nansanhuan</summary>
+<img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/nansanhuan_aq.png" width="240">
+</details>
 
 
 
