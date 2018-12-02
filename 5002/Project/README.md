@@ -1,6 +1,6 @@
 # 5002 
 
-## EDA
+##  Exploratory Data Analysis
 
 <details>
   <summary>  <b>All</b>  </summary>
@@ -48,6 +48,8 @@
 
 <details>
   <summary>dongsihuan_aq</summary>
+  ### AQ Distribution of 2018
+<img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/nansanhuan_aq.png" >
 
 <table border=0 >
     <tbody>
