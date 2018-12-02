@@ -1,7 +1,9 @@
 # 5002 
 
+## EDA
 
-
+<details>
+  <summary>All stations</summary>
 | Station | Distribution | 
 |:------:| ------ | 
 | dongsi | <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/dongsi_aq.png" width="240"> | 
@@ -39,13 +41,12 @@
 | xizhimenbei | <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/xizhimenbei_aq.png" width="240"> | 
 | nansanhuan | <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/nansanhuan_aq.png" width="240"> | 
 | dongsihuan | <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/dongsihuan_aq.png" width="240"> | 
-
-
-## 问答
+</details>
 
 <details>
   <summary>dongsihuan</summary>
-<img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/dongsihuan_aq.png" width="240"></details>
+<img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/dongsihuan_aq.png" width="240">
+</details>
 
 <details>
   <summary>nansanhuan</summary>
