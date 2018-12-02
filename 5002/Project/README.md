@@ -3,7 +3,7 @@
 ## EDA
 
 <details>
-  <summary> **All** </summary>
+  <summary>  <b>All</b>  </summary>
 
 | Station | Distribution | 
 |:------:| ------ | 
@@ -48,7 +48,6 @@
 
 <details>
   <summary>dongsihuan_aq</summary>
-<img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/dongsihuan_aq.png" width="240">
 
 <table border=0 >
     <tbody>
