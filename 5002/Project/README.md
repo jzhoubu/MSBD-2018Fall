@@ -48,8 +48,8 @@
 
 <details>
   <summary>dongsihuan_aq</summary>
-  ### AQ Distribution of 2018
-<img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/nansanhuan_aq.png" >
+<b>AQ Distribution of 2018</b>
+<img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/dongsihuan_aq.png" >
 
 <table border=0 >
     <tbody>
