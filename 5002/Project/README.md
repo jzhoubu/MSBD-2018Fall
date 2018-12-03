@@ -1,9 +1,4 @@
 # 5002 
-table {
-  width: 100%;
-  overflow: auto;
-  display: block;
-}
 
 ##  Exploratory Data Analysis
 
@@ -53,17 +48,21 @@ table {
 <details>
   <summary>dongsihuan_aq</summary>
 <b>AQ Distribution of 2018</b>
-<img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/dongsihuan_aq.png" >
-
 <table border=0 >
     <tbody>
         <tr>
-            <td width="20%" >  <b>AQ Distribution of 2018</b></td>
+            <td width="20%" >  <b>AQ Distribution</b></td>
             <td width="80%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/dongsihuan_aq.png"> </td>
         </tr>
         <tr>
-            <td width="20%" >  <b>Horizon Graph of AQ</b> </td>
+            <td width="20%" >  <b>AQ Horizon Graph</b> </td>
             <td width="80%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/dongsihuan_aq.png"> </td>
+        </tr>
+        <tr>
+            <td width="20%" >  <b>AQ Top Feature</b> </td>
+            <td width="80%"> <b>PM2.5</b>: ['PM2.5_h1', 'PM2.5_h2', 'humidity', 'humidity_h2', 'PM2.5_h3'] <br/> 
+                <b>PM10</b>: ['PM10_h1', 'PM10_h2', 'PM2.5_h1', 'humidity', 'PM10_h3']  <br/> 
+                <b>O3</b>: ['O3_h1', 'humidity', 'temperature', 'wind_speed_h1', 'hour'] </td>
         </tr>
     </tbody>
 </table>
