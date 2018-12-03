@@ -6,7 +6,7 @@
   <summary>  <b>All</b>  </summary>
 
 | Station | Distribution | Horizon Graph | Top Features |
-|:------:| ------ | ------ | 
+|:------:| ------ | ------ | ------ | 
 | dongsi_aq | <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/dongsi_aq.png" width="240"> | <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/dongsi_aq_HorizonGraph.png" width="240">| PM2.5: ['PM2.5_h1', 'PM2.5_h2', 'PM2.5_h8', 'PM10_h1', 'PM2.5_h3'] | PM10: ['PM10_h1', 'PM2.5_h1', 'PM10_h2', 'PM10_h4', 'windW2E_h2'] | PMO3: ['O3_h1', 'hour', 'O3_h2', 'O3_h3', 'wind_speed'] 
 | tiantan_aq | <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/tiantan_aq.png" width="240"> | <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/tiantan_aq_HorizonGraph.png" width="240">| PM2.5: ['PM2.5_h1', 'PM2.5_h2', 'PM10_h1', 'PM2.5_h3', 'wind_speed'] | PM10: ['PM10_h1', 'PM2.5_h1', 'PM10_h2', 'PM10_h3', 'wind_direction_d5'] | PMO3: ['O3_h1', 'O3_h2', 'hour', 'wind_speed', 'O3_h5'] 
 | guanyuan_aq | <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/guanyuan_aq.png" width="240"> | <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/guanyuan_aq_HorizonGraph.png" width="240">| PM2.5: ['PM2.5_h1', 'PM2.5_h2', 'PM10_h1', 'PM2.5_h3', 'PM2.5_h8'] | PM10: ['PM10_h1', 'PM10_h2', 'PM2.5_h1', 'wind_speed_d5', 'wind_speed_h7'] | PMO3: ['O3_h1', 'O3_h2', 'wind_speed', 'temperature', 'hour'] 
