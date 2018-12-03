@@ -7,8 +7,8 @@
 
 | Station | Distribution | Top Features |
 |:------:| ------ | ------ | 
-| aotizhongxin_aq
-| <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/aotizhongxin_aq.png" width="240">
+| aotizhongxin_aq \
+| <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/aotizhongxin_aq.png" width="240"> \
 | <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/aotizhongxin_aq_HorizonGraph.png" width="240">
 | badaling_aq
 | <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/badaling_aq.png" width="240">
