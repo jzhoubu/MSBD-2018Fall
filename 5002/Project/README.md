@@ -45,33 +45,9 @@
 </details>
 
 
-<details>
-  <summary>dongsihuan_aq</summary>
-<table border=0 >
-    <tbody>
-        <tr>
-            <td width="20%" align="center" valign="center">  <b>AQ Distribution</b></td>
-            <td width="80%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/dongsihuan_aq.png"> </td>
-        </tr>
-        <tr>
-            <td width="20%" align="center" valign="center" >  <b>AQ Horizon Graph</b> </td>
-            <td width="80%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/dongsihuan_aq.png"> </td>
-        </tr>
-        <tr>
-            <td width="20%" align="center" valign="center">  <b>AQ Top Feature</b> </td>
-            <td width="80%"> <b>PM2.5</b>: ['PM2.5_h1', 'PM2.5_h2', 'humidity', 'humidity_h2', 'PM2.5_h3'] <br/> 
-                <b>PM10</b>: ['PM10_h1', 'PM10_h2', 'PM2.5_h1', 'humidity', 'PM10_h3']  <br/> 
-                <b>O3</b>: ['O3_h1', 'humidity', 'temperature', 'wind_speed_h1', 'hour'] </td>
-        </tr>
-    </tbody>
-</table>
-</details>
 
 
 
-
-
-
-<details>   <summary>dongsi_aq</summary> <table border=0 >     <tbody>         <tr>             <td width='20%' align='center' valign='center'>  <b>AQ Distribution</b></td>             <td width='80%'> <img src='https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/dongsi_aq.png'> </td>         </tr>         <tr>             <td width='20%' align='center' valign='center' >  <b>AQ Horizon Graph</b> </td>             <td width='80%'> <img src='https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/dongsi_aq_HorizonGraph.png'> </td>         </tr>         <tr>             <td width='20%' align='center' valign='center'>  <b>AQ Top Feature</b> </td>             <td width='80%'> <b>PM2.5</b>: ['PM2.5_h1', 'PM2.5_h2', 'PM2.5_h8', 'PM10_h1', 'PM2.5_h3'] <br/>                 <b>PM10 </b>: ['PM10_h1', 'PM2.5_h1', 'PM10_h2', 'PM10_h4', 'windW2E_h2']  <br/>                  <b>O3   </b>: ['O3_h1', 'hour', 'O3_h2', 'O3_h3', 'wind_speed'] </td>         </tr>     </tbody> </table> </details>
+<details>   <summary>dongsi_aq</summary> <table border=0 >     <tbody>         <tr>             <td width='20%' align='center' valign='center'>  <b>AQ Distribution</b></td>             <td width='80%'> <img src='https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/dongsi_aq.png'> </td>         </tr>         <tr>             <td width='20%' align='center' valign='center' >  <b>AQ Horizon Graph</b> </td>             <td width='80%'> <img src='https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5002Proj/dongsi_aq_HorizonGraph.png'> </td>         </tr>         <tr>             <td width='20%' align='center' valign='center'>  <b>AQ Top Feature</b> </td>             <td width='80%'> <b>PM2.5</b>: ['PM2.5_h1', 'PM2.5_h2', 'PM2.5_h8', 'PM10_h1', 'PM2.5_h3'] <br/>                 <b>PM10 &nbsp;</b>: ['PM10_h1', 'PM2.5_h1', 'PM10_h2', 'PM10_h4', 'windW2E_h2']  <br/>                  <b>O3   &nbsp;&nbsp;&nbsp;</b>: ['O3_h1', 'hour', 'O3_h2', 'O3_h3', 'wind_speed'] </td>         </tr>     </tbody> </table> </details>
 
 
