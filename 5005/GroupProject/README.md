@@ -12,3 +12,9 @@ Given a pd.DataFrame like:
 | date | BTC | ETH | LTC | NEO | XRP |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |2017-06-06 | 2.089610e+09  |  7.415530e+08  |  3.210990e+08  |  5234170.0 |  132720000.0 |
+
+```ruby
+from HorizonGraph import *
+fig=HorizonPlot(df,"date")
+iplot(fig)
+```
