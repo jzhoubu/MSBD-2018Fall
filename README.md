@@ -34,7 +34,7 @@ The **Goal** of this repo is:
     <tbody>
         <tr>
             <td width="50" align="center"> <b> Course </b> </td>
-            <td width="50" align="left"> <b> Assighment </b> </td>
+            <td width="50" align="center"> <b> Assignment </b> </td>
         </tr>
         <tr>
             <td width="50" align="center" valign="center"> <b> 5001<br/> Foundations of Data Analytics </b>  </td>
@@ -43,29 +43,30 @@ The **Goal** of this repo is:
                                                                                                              <a href="https://www.kaggle.com/t/d3175611b9594c4bb94a974e8ad664a5">[Link]</a>
                                                                                                              <a href="https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5001/kaggle">[Solution]</a>
                                                                                                              <br/>
-                                                                                                             Midterm
+                                                                                                             Midterm </td>
         </tr>
         <tr>
             <td width="50"><b> 5002 <br/> Knowledge Discovery and Data Mining </b></td>
-            <td width="50"> Assignment 1:  [HashTree](https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A1/Q1) & [FPTree](https://github.com/sysu-zjw/Big-Data-Technology-Homework/tree/master/5002/A1/Q2) <br/>
+            <td width="50"> Assignment 1:  HashTree <a href="https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A1/Q1">[Link]</a> 
+                                                                            & FPTree  <a href="https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A1/Q2">[Link]</a> <br/>
                                                 Assignment 2:  Ensemble Learning <br/>
                                                 Assignment 3:  Unsupervised Learning <br/>
-                                                Project:  Data Mining on Spatio-Temporal Dataset
+                                                Project:  Data Mining on Spatio-Temporal Dataset</td>
         </tr>
         <tr>
             <td ><b> 5003 <br/> Big Data Computing </b></td>
             <td > Assignment 1<br/>
-                                                Assignment 2<br/>
-                                                Assignment 3 <br/>
-                                                Assignment 4 <br/>
-                                                Final        
+                        Assignment 2<br/>
+                        Assignment 3 <br/>
+                        Assignment 4 <br/>
+                        Final</td>
         </tr>
         <tr>
             <td ><b> 5005 <br/> Data Visualization </b></td>
             <td >  InClass Exercise<br/>
-                                                Individual Project [[Link](https://sysu-zjw.github.io/5005TopVIS/)] <br/>
-                                                Group Project <br/>
-                                                Final
+                        Individual Project [[Link](https://sysu-zjw.github.io/5005TopVIS/)] <br/>
+                        Group Project <br/>
+                        Final</td>
         </tr>
     </tbody>
 </table>
