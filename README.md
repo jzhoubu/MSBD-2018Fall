@@ -14,17 +14,17 @@ The **Goal** of this repo is:
 - Deadline(10/12/2018): 5003 Assignment 1 
 - Deadline(10/23/2018): 5002 Midterm 
 - Deadline(10/24/2018): 5005 Individual Presentation [[Demo](https://sysu-zjw.github.io/5005TopVIS/)]  [[Essay](https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/5005/Essay.md)]
-- Deadline(10/25/2018): 5002 Assignment 2 [Solution]
+- Deadline(10/25/2018): 5002 Assignment 2 [[Solution](https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A2)]
 - Deadline(10/26/2018): 5001 Group Project Proposal 
 - Deadline(10/26/2018): 5003 Assignment 2 
 - Deadline(10/29/2018): 5003 Group Project Proposal 
 - Deadline(11/01/2018): 5005 Group Project Proposal 
 - Deadline(11/12/2018): 5003 Assignment 3
-- Deadline(11/13/2018): 5002 Assignment 3 
+- Deadline(11/13/2018): 5002 Assignment 3 [[Solution](https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A3)]
 - Deadline(11/15/2018): 5005 Short Eassy
-- Deadline(11/21/2018): 5001 Individual Competition [[Solution](https://i.imgflip.com/1dq5fk.jpg)]
+- Deadline(11/21/2018): 5001 Individual Competition [Runner-up [Solution](https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5001/kaggle)]
 - Deadline(11/26/2018): 5003 Group Project Presentation 
-- Deadline(11/29/2018): 5005 Group Project Presentation 
+- Deadline(11/29/2018): 5005 Group Project Presentation  [[Demo](https://sysu-zjw.github.io/5005pre/)] 
 - Deadline(11/30/2018): 5002 Project 
 - Deadline(12/10/2018): 5002 Final 
 - Deadline(12/10/2018): 5003 Final 
@@ -67,6 +67,10 @@ The **Goal** of this repo is:
                         • Individual Project [<a href="https://sysu-zjw.github.io/5005TopVIS/">Demo</a>] <br/>
                         • Group Project     [<a href="https://sysu-zjw.github.io/5005pre/">Demo</a>] <br/>
                         • Final Exam</td>
+        </tr>
+        <tr>
+            <td align="center" valign="center"><b> 5014 <br/> Independent Project </b></td>
+            <td >  • Human-eye on Deep Learning [<a href="https://github.com/sysu-zjw/XAI-Project">Link</a>]<br/>
         </tr>
     </tbody>
 </table>
