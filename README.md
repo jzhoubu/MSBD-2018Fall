@@ -40,18 +40,18 @@ The **Goal** of this repo is:
             <td width="100" align="center" valign="center"> <b> 5001<br/> Foundations <br/> of Data Analytics </b>  </td>
             <td width="160" align="left" valign="top"> Group project <br/>
                                                                                                  Individual project: Inclass Kaggle competition
-                                                                                                 <a href="https://www.kaggle.com/t/d3175611b9594c4bb94a974e8ad664a5">[Link]</a>
-                                                                                                 <a href="https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5001/kaggle">[Solution]</a>
+                                                                                                 [<a href="https://www.kaggle.com/t/d3175611b9594c4bb94a974e8ad664a5">Link</a>  &
+                                                                                                 <a href="https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5001/kaggle"> Solution</a>]
                                                                                                  <br/>
                                                                                                  Midterm Exam </td>
         </tr>
         <tr>
             <td width="100" align="center" valign="center"><b> 5002 <br/> Knowledge Discovery <br/>and Data Mining </b></td>
-            <td > Assignment 1:  HashTree <a href="https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A1/Q1">[Solution]</a> 
-                                                                            & FPTree  <a href="https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A1/Q2">[Solution]</a> <br/>
-                        Assignment 2:  Ensemble Learning <a href="https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A2">[Solution]</a><br/>
-                        Assignment 3:  Unsupervised Learning <a href="https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A3">[Solution]</a> <br/>
-                        Group Project:  Data Mining on Spatio-Temporal Dataset — KDD 2018 </td>
+            <td > Assignment 1:  HashTree [<a href="https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A1/Q1">Solution</a>] 
+                                                                            & FPTree  [<a href="https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A1/Q2">Solution</a>] <br/>
+                        Assignment 2:  Ensemble Learning [<a href="https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A2">Solution</a>]<br/>
+                        Assignment 3:  Unsupervised Learning [<a href="https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A3">Solution</a>] <br/>
+                        Group Project:  KDD 2018 </td>
         </tr>
         <tr>
             <td align="center" valign="center"><b> 5003 <br/> Big Data Computing </b></td>
@@ -64,9 +64,9 @@ The **Goal** of this repo is:
         <tr>
             <td align="center" valign="center"><b> 5005 <br/> Data Visualization </b></td>
             <td >  InClass Exercise<br/>
-                        Individual Project <a href="https://sysu-zjw.github.io/5005TopVIS/">[Demo]</a> <br/>
-                        Group Project  <br/>
-                        Final </td>
+                        Individual Project [<a href="https://sysu-zjw.github.io/5005TopVIS/">Demo</a>] <br/>
+                        Group Project     [<a href="https://sysu-zjw.github.io/5005pre/">Demo</a>] <br/>
+                        Final Exam</td>
         </tr>
     </tbody>
 </table>
