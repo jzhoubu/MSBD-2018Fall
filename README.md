@@ -34,11 +34,11 @@ The **Goal** of this repo is:
     <tbody>
         <tr>
             <td width="80" align="center"> <b> Course </b> </td>
-            <td width="250" align="center"> <b> Assignment </b> </td>
+            <td width="450" align="center"> <b> Assignment </b> </td>
         </tr>
         <tr>
             <td width="80" align="center" valign="center"> <b> 5001<br/> Foundations <br/> of Data Analytics </b>  </td>
-            <td width="250" align="left" valign="top"> • Group project <br/>
+            <td width="450" align="left" valign="top"> • Group project <br/>
                                                                                                  • Individual project: Inclass Kaggle competition
                                                                                                  [<a href="https://www.kaggle.com/t/d3175611b9594c4bb94a974e8ad664a5">Link</a>  &
                                                                                                  <a href="https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5001/kaggle"> Solution</a>]
