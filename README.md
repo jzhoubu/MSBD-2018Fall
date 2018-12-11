@@ -19,26 +19,59 @@ The **Goal** of this repo is:
 - Deadline(10/26/2018): 5003 Assignment 2 
 - Deadline(10/29/2018): 5003 Group Project Proposal 
 - Deadline(11/01/2018): 5005 Group Project Proposal 
-- **Deadline(11/12/2018)**: 5003 Assignment 3
-- **Deadline(11/13/2018)**: 5002 Assignment 3 
-- **Deadline(11/15/2018)**: 5005 Short Eassy
-- **Deadline(11/21/2018)**: 5001 Individual Competition [[Solution](https://i.imgflip.com/1dq5fk.jpg)]
-- **Deadline(11/26/2018)**: 5003 Group Project Presentation 
-- **Deadline(11/30/2018)**: 5002 Project [Killing me]
-- **Deadline(12/10/2018)**: 5003 Final 
-- **Deadline(12/11/2018)**: 5002 Final 
-- **Deadline(12/13/2018)**: 5005 Final 
+- Deadline(11/12/2018): 5003 Assignment 3
+- Deadline(11/13/2018): 5002 Assignment 3 
+- Deadline(11/15/2018): 5005 Short Eassy
+- Deadline(11/21/2018): 5001 Individual Competition [[Solution](https://i.imgflip.com/1dq5fk.jpg)]
+- Deadline(11/26/2018): 5003 Group Project Presentation 
+- Deadline(11/29/2018): 5005 Group Project Presentation 
+- Deadline(11/30/2018): 5002 Project 
+- Deadline(12/10/2018): 5002 Final 
+- Deadline(12/10/2018): 5003 Final 
+- Deadline(12/13/2018): 5005 Final 
 
-
-
-
-
+<table border="0">
+    <tbody>
+        <tr>
+            <td width="20"> <b> Course </b> </td>
+            <td width="80"> <b> Assighment </b> </td>
+        </tr>
+        <tr>
+            <td width="20"> <b> 5001<br/> Foundations of Data Analytics </b>  </td>
+            <td width="80"> Group project <br/>
+                                                Individual project [[Link](https://www.kaggle.com/t/d3175611b9594c4bb94a974e8ad664a5)] [[Solution](https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5001/kaggle)] <br/>
+                                                Midterm
+        </tr>
+        <tr>
+            <td width="20"><b> 5002 <br/> Knowledge Discovery and Data Mining </b></td>
+            <td width="80"> Assignment 1:  [HashTree](https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A1/Q1) & [FPTree](https://github.com/sysu-zjw/Big-Data-Technology-Homework/tree/master/5002/A1/Q2) <br/>
+                                                Assignment 2:  Ensemble Learning <br/>
+                                                Assignment 3:  Unsupervised Learning <br/>
+                                                Project:  Data Mining on Spatio-Temporal Dataset
+        </tr>
+        <tr>
+            <td width="20"><b> 5003 <br/> Big Data Computing </b></td>
+            <td width="80"> Assignment 1<br/>
+                                                Assignment 2<br/>
+                                                Assignment 3 <br/>
+                                                Assignment 4 <br/>
+                                                Final        
+        </tr>
+        <tr>
+            <td width="20"><b> 5005 <br/> Data Visualization </b></td>
+            <td width="80">  InClass Exercise<br/>
+                                                Individual Project [[Link](https://sysu-zjw.github.io/5005TopVIS/)] <br/>
+                                                Group Project <br/>
+                                                Final
+        </tr>
+    </tbody>
+</table>
 
 
 # Homework List
 ### 5001. Foundations of Data Analytics
 - Group Project
-- Individual Project [[Link](https://www.kaggle.com/t/d3175611b9594c4bb94a974e8ad664a5)]
+- Individual Project [[Link](https://www.kaggle.com/t/d3175611b9594c4bb94a974e8ad664a5)] 
 - Midterm
 
 ### 5002. Knowledge Discovery and Data Mining
@@ -55,7 +88,8 @@ The **Goal** of this repo is:
 
 ### 5005. Data Visualization
 - In Class Exercise
-- Individual Presentation [[Link](https://sysu-zjw.github.io/5005TopVIS/)]
+- Individual Project [[Link](https://sysu-zjw.github.io/5005TopVIS/)]
+- Group Project [Link]
 
 [<img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5005Pre.png" width="240">](https://sysu-zjw.github.io/5005TopVIS/)
 
