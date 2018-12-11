@@ -1,6 +1,6 @@
 # A short research on Chord Diagram
 
-### 0. Top VIS Competition Demo [[Link](https://sysu-zjw.github.io/5005TopVIS/)]
+### 0. Top VIS Competition Demo [[Link](https://sysu-zjw.github.io/MSBD-2018Fall/5005/IndividualProject/)]
 
 ### 1. Introduction
 A [link](https://sysu-zjw.github.io/5005TopVIS/) to my presentation of top VIS to introduce Chord Diagram. 
