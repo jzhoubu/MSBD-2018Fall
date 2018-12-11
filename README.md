@@ -33,13 +33,13 @@ The **Goal** of this repo is:
 <table border="0">
     <tbody>
         <tr>
-            <td width="80" align="center"> <b> Course </b> </td>
-            <td width="450" align="center"> <b> Assignment </b> </td>
+            <td width="150" align="center"> <b> Course </b> </td>
+            <td width="300" align="center"> <b> Assignment </b> </td>
         </tr>
         <tr>
-            <td width="80" align="center" valign="center"> <b> 5001<br/> Foundations <br/> of Data Analytics </b>  </td>
-            <td width="450" align="left" valign="top"> • Group project <br/>
-                                                                                                 • Individual project: Inclass Kaggle competition
+            <td width="150" align="center" valign="center"> <b> 5001<br/> Foundations <br/> of Data Analytics </b>  </td>
+            <td width="300" align="left" valign="top"> • Group project <br/>
+                                                                                                 • Individual project: Inclass Kaggle
                                                                                                  [<a href="https://www.kaggle.com/t/d3175611b9594c4bb94a974e8ad664a5">Link</a>  &
                                                                                                  <a href="https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5001/kaggle"> Solution</a>]
                                                                                                  <br/>
@@ -47,8 +47,7 @@ The **Goal** of this repo is:
         </tr>
         <tr>
             <td align="center" valign="center"><b> 5002 <br/> Knowledge Discovery <br/>and Data Mining </b></td>
-            <td > • Assignment 1:  HashTree [<a href="https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A1/Q1">Solution</a>] 
-                                                                            & FPTree  [<a href="https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A1/Q2">Solution</a>] <br/>
+            <td > • Assignment 1:  HashTree & FPTree  [<a href="https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A1/Q2">Solution</a>] <br/>
                         • Assignment 2:  Ensemble Learning [<a href="https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A2">Solution</a>]<br/>
                         • Assignment 3:  Unsupervised Learning [<a href="https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A3">Solution</a>] <br/>
                         • Group Project:  KDD 2018 </td>
