@@ -33,14 +33,17 @@ The **Goal** of this repo is:
 <table border="0">
     <tbody>
         <tr>
-            <td width="20"> <b> Course </b> </td>
+            <td width="50"> <b> Course </b> </td>
             <td width="80"> <b> Assighment </b> </td>
         </tr>
         <tr>
-            <td width="20"> <b> 5001<br/> Foundations of Data Analytics </b>  </td>
-            <td width="80"> Group project <br/>
-                                                Individual project [[Link](https://www.kaggle.com/t/d3175611b9594c4bb94a974e8ad664a5)] [[Solution](https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5001/kaggle)] <br/>
-                                                Midterm
+            <td width="50" align="center" valign="center"> <b> 5001<br/> Foundations of Data Analytics </b>  </td>
+            <td width="80" align="center" valign="center"> Group project <br/>
+                                                                                                             Individual project 
+                                                                                                             <a href="https://www.kaggle.com/t/d3175611b9594c4bb94a974e8ad664a5">Link</a>
+                                                                                                             <a href="https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5001/kaggle">Solution</a>
+                                                                                                             <br/>
+                                                                                                             Midterm
         </tr>
         <tr>
             <td width="20"><b> 5002 <br/> Knowledge Discovery and Data Mining </b></td>
