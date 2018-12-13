@@ -8,27 +8,9 @@ The **Goal** of this repo is:
 - to record, organize, and improve the existing state-of-art algorithm learnt from lessons [Remove]
 - to store and present what I have done in 2018Fall MSBD program [New]
 
-# Deadline
-- Deadline(09/28/2018): 5002 Assignment 1 [[Solution](https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A1/Q2)]
-- Deadline(10/10/2018): 5001 Midterm 
-- Deadline(10/12/2018): 5003 Assignment 1 
-- Deadline(10/23/2018): 5002 Midterm 
-- Deadline(10/24/2018): 5005 Individual Presentation [[Demo](https://sysu-zjw.github.io/5005TopVIS/)]  [[Essay](https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/5005/Essay.md)]
-- Deadline(10/25/2018): 5002 Assignment 2 [[Solution](https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A2)]
-- Deadline(10/26/2018): 5001 Group Project Proposal 
-- Deadline(10/26/2018): 5003 Assignment 2 
-- Deadline(10/29/2018): 5003 Group Project Proposal 
-- Deadline(11/01/2018): 5005 Group Project Proposal 
-- Deadline(11/12/2018): 5003 Assignment 3
-- Deadline(11/13/2018): 5002 Assignment 3 [[Solution](https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A3)]
-- Deadline(11/15/2018): 5005 Short Eassy
-- Deadline(11/21/2018): 5001 Individual Competition [Runner-up [Solution](https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5001/kaggle)]
-- Deadline(11/26/2018): 5003 Group Project Presentation 
-- Deadline(11/29/2018): 5005 Group Project Presentation  [[Demo](https://sysu-zjw.github.io/5005pre/)] 
-- Deadline(11/30/2018): 5002 Project 
-- Deadline(12/10/2018): 5002 Final 
-- Deadline(12/10/2018): 5003 Final 
-- Deadline(12/13/2018): 5005 Final 
+
+
+# Workload
 
 <table border="0">
     <tbody>
@@ -63,7 +45,7 @@ The **Goal** of this repo is:
         <tr>
             <td align="center" valign="center"><b> 5005 <br/> Data Visualization </b></td>
             <td >  • InClass Exercise<br/>
-                        • Individual Project [<a href="https://sysu-zjw.github.io/5005TopVIS/">Demo</a>] <br/>
+                        • Individual Project [<a href="https://sysu-zjw.github.io/MSBD-2018Fall/5005/TopVIS/">Demo</a>] <br/>
                         • Group Project     [<a href="https://sysu-zjw.github.io/5005pre/">Demo</a>] <br/>
                         • Final Exam</td>
         </tr>
@@ -74,44 +56,29 @@ The **Goal** of this repo is:
     </tbody>
 </table>
 
+# Deadline
+- Deadline(09/28/2018): 5002 Assignment 1 [[Solution](https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A1/Q2)]
+- Deadline(10/10/2018): 5001 Midterm 
+- Deadline(10/12/2018): 5003 Assignment 1 
+- Deadline(10/23/2018): 5002 Midterm 
+- Deadline(10/24/2018): 5005 Individual Presentation [[Demo](https://sysu-zjw.github.io/5005TopVIS/)]  [[Essay](https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/5005/Essay.md)]
+- Deadline(10/25/2018): 5002 Assignment 2 [[Solution](https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A2)]
+- Deadline(10/26/2018): 5001 Group Project Proposal 
+- Deadline(10/26/2018): 5003 Assignment 2 
+- Deadline(10/29/2018): 5003 Group Project Proposal 
+- Deadline(11/01/2018): 5005 Group Project Proposal 
+- Deadline(11/12/2018): 5003 Assignment 3
+- Deadline(11/13/2018): 5002 Assignment 3 [[Solution](https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A3)]
+- Deadline(11/15/2018): 5005 Short Eassy
+- Deadline(11/21/2018): 5001 Individual Competition [Runner-up [Solution](https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5001/kaggle)]
+- Deadline(11/26/2018): 5003 Group Project Presentation 
+- Deadline(11/29/2018): 5005 Group Project Presentation  [[Demo](https://sysu-zjw.github.io/5005pre/)] 
+- Deadline(11/30/2018): 5002 Project 
+- Deadline(12/10/2018): 5002 Final 
+- Deadline(12/10/2018): 5003 Final 
+- Deadline(12/13/2018): 5005 Final 
 
-# Homework List
-### 5001. Foundations of Data Analytics
-- Group Project
-- Individual Project [[Link](https://www.kaggle.com/t/d3175611b9594c4bb94a974e8ad664a5)] 
-- Midterm
 
-### 5002. Knowledge Discovery and Data Mining
-- Assignment 1:  [HashTree](https://github.com/sysu-zjw/MSBD-2018Fall/tree/master/5002/A1/Q1) & [FPTree](https://github.com/sysu-zjw/Big-Data-Technology-Homework/tree/master/5002/A1/Q2)
-- Assignment 2:  Ensemble Learning
-- Assignment 3:  Unsupervised Learning
-- Project:  Data Mining on Spatio-Temporal Dataset
-
-
-### 5003. Big Data Computing
-- Assignment 1
-- Assignment 2
-- Assignment 3
-
-### 5005. Data Visualization
-- In Class Exercise
-- Individual Project [[Link](https://sysu-zjw.github.io/5005TopVIS/)]
-- Group Project [Link]
-
-[<img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5005Pre.png" width="240">](https://sysu-zjw.github.io/5005TopVIS/)
-
-- Group Project
-
-### 5014. Independent Project
-#### Human-eye on Deep Learning [[Link](https://github.com/sysu-zjw/XAI-Project)]
-<table border=0 >
-    <tbody>
-        <tr>
-            <td width="20%" > <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5014XAI_1.png"> </td>
-            <td width="20%"> <img src="https://github.com/sysu-zjw/MSBD-2018Fall/blob/master/img/5014XAI_2.png"> </td>
-        </tr>
-    </tbody>
-</table>
 
 
 # Contributor
